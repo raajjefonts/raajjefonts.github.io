@@ -1,6 +1,13 @@
 // listings
 var fontsListing = [
 {
+name: "aammufkF",
+file_name: "aammufkF.ttf",
+web_file_location: "fonts/aammufkF.ttf",
+download_file_location: "fonts/aammufkF.ttf",
+download_font_size: "88 KB"
+},
+{
 name: "Athu Casual",
 file_name: "Athu_Casual.otf",
 web_file_location: "fonts/Athu_Casual.otf",
@@ -540,6 +547,13 @@ download_file_location: "fonts/LCDThaana-Regular.ttf",
 download_font_size: "58 KB"
 },
 {
+name: "maliku",
+file_name: "maliku.ttf",
+web_file_location: "fonts/maliku.ttf",
+download_file_location: "fonts/maliku.ttf",
+download_font_size: "62 KB"
+},
+{
 name: "MasnooeeMono-Regular",
 file_name: "MasnooeeMono-Regular.ttf",
 web_file_location: "fonts/MasnooeeMono-Regular.ttf",
@@ -568,6 +582,13 @@ download_file_location: "fonts/MotaruSquare-Regular.ttf",
 download_font_size: "17 KB"
 },
 {
+name: "mv currency symbol",
+file_name: "mv currency_symbol.ttf",
+web_file_location: "fonts/mv currency_symbol.ttf",
+download_file_location: "fonts/mv currency_symbol.ttf",
+download_font_size: "96 KB"
+},
+{
 name: "MvJadheedh-rq5O",
 file_name: "MvJadheedh-rq5O.ttf",
 web_file_location: "fonts/MvJadheedh-rq5O.ttf",
@@ -575,11 +596,116 @@ download_file_location: "fonts/MvJadheedh-rq5O.ttf",
 download_font_size: "83 KB"
 },
 {
+name: "mvnasri bld",
+file_name: "mvnasri_bld.ttf",
+web_file_location: "fonts/mvnasri_bld.ttf",
+download_file_location: "fonts/mvnasri_bld.ttf",
+download_font_size: "73 KB"
+},
+{
+name: "mvnasri reg",
+file_name: "mvnasri_reg.ttf",
+web_file_location: "fonts/mvnasri_reg.ttf",
+download_file_location: "fonts/mvnasri_reg.ttf",
+download_font_size: "107 KB"
+},
+{
+name: "MVOpenCondensed-Bold",
+file_name: "MVOpenCondensed-Bold.ttf",
+web_file_location: "fonts/MVOpenCondensed-Bold.ttf",
+download_file_location: "fonts/MVOpenCondensed-Bold.ttf",
+download_font_size: "49 KB"
+},
+{
+name: "mvraadha bold",
+file_name: "mvraadha_bold.ttf",
+web_file_location: "fonts/mvraadha_bold.ttf",
+download_file_location: "fonts/mvraadha_bold.ttf",
+download_font_size: "74 KB"
+},
+{
+name: "mvraadha regular",
+file_name: "mvraadha_regular.ttf",
+web_file_location: "fonts/mvraadha_regular.ttf",
+download_file_location: "fonts/mvraadha_regular.ttf",
+download_font_size: "74 KB"
+},
+{
+name: "mvthuththu bld",
+file_name: "mvthuththu_bld.ttf",
+web_file_location: "fonts/mvthuththu_bld.ttf",
+download_file_location: "fonts/mvthuththu_bld.ttf",
+download_font_size: "55 KB"
+},
+{
+name: "mvthuththu neo bold",
+file_name: "mvthuththu_neo_bold.ttf",
+web_file_location: "fonts/mvthuththu_neo_bold.ttf",
+download_file_location: "fonts/mvthuththu_neo_bold.ttf",
+download_font_size: "55 KB"
+},
+{
+name: "mvthuththu neo reg",
+file_name: "mvthuththu_neo_reg.ttf",
+web_file_location: "fonts/mvthuththu_neo_reg.ttf",
+download_file_location: "fonts/mvthuththu_neo_reg.ttf",
+download_font_size: "65 KB"
+},
+{
+name: "mvtypebold",
+file_name: "mvtypebold.ttf",
+web_file_location: "fonts/mvtypebold.ttf",
+download_file_location: "fonts/mvtypebold.ttf",
+download_font_size: "56 KB"
+},
+{
+name: "mvtyper",
+file_name: "mvtyper.ttf",
+web_file_location: "fonts/mvtyper.ttf",
+download_file_location: "fonts/mvtyper.ttf",
+download_font_size: "65 KB"
+},
+{
+name: "mvtypewritersb v1",
+file_name: "mvtypewritersb_v1.1.ttf",
+web_file_location: "fonts/mvtypewritersb_v1.1.ttf",
+download_file_location: "fonts/mvtypewritersb_v1.1.ttf",
+download_font_size: "58 KB"
+},
+{
+name: "MVUligamu",
+file_name: "MVUligamu.ttf",
+web_file_location: "fonts/MVUligamu.ttf",
+download_file_location: "fonts/MVUligamu.ttf",
+download_font_size: "172 KB"
+},
+{
+name: "mvutheemuBOLD",
+file_name: "mvutheemuBOLD.ttf",
+web_file_location: "fonts/mvutheemuBOLD.ttf",
+download_file_location: "fonts/mvutheemuBOLD.ttf",
+download_font_size: "61 KB"
+},
+{
+name: "mvutheemuREGULAR",
+file_name: "mvutheemuREGULAR.ttf",
+web_file_location: "fonts/mvutheemuREGULAR.ttf",
+download_file_location: "fonts/mvutheemuREGULAR.ttf",
+download_font_size: "69 KB"
+},
+{
 name: "MVWaheed",
 file_name: "MVWaheed.otf",
 web_file_location: "fonts/MVWaheed.otf",
 download_file_location: "fonts/MVWaheed.otf",
 download_font_size: "21 KB"
+},
+{
+name: "mv akalight regular",
+file_name: "mv_akalight_regular.ttf",
+web_file_location: "fonts/mv_akalight_regular.ttf",
+download_file_location: "fonts/mv_akalight_regular.ttf",
+download_font_size: "239 KB"
 },
 {
 name: "Mv Amaan XP",
@@ -687,6 +813,13 @@ download_file_location: "fonts/Mv_MAG_Round_XBold.otf",
 download_font_size: "20 KB"
 },
 {
+name: "mv oswald reg",
+file_name: "mv_oswald_reg.ttf",
+web_file_location: "fonts/mv_oswald_reg.ttf",
+download_file_location: "fonts/mv_oswald_reg.ttf",
+download_font_size: "132 KB"
+},
+{
 name: "Mv Sehga Fubaru Fancy",
 file_name: "Mv_Sehga_Fubaru_Fancy.otf",
 web_file_location: "fonts/Mv_Sehga_Fubaru_Fancy.otf",
@@ -713,6 +846,83 @@ file_name: "Nasr_Light.otf",
 web_file_location: "fonts/Nasr_Light.otf",
 download_file_location: "fonts/Nasr_Light.otf",
 download_font_size: "31 KB"
+},
+{
+name: "NotoSansThaana-Black",
+file_name: "NotoSansThaana-Black.ttf",
+web_file_location: "fonts/NotoSansThaana-Black.ttf",
+download_file_location: "fonts/NotoSansThaana-Black.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-Bold",
+file_name: "NotoSansThaana-Bold.ttf",
+web_file_location: "fonts/NotoSansThaana-Bold.ttf",
+download_file_location: "fonts/NotoSansThaana-Bold.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-ExtraBold",
+file_name: "NotoSansThaana-ExtraBold.ttf",
+web_file_location: "fonts/NotoSansThaana-ExtraBold.ttf",
+download_file_location: "fonts/NotoSansThaana-ExtraBold.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-ExtraLight",
+file_name: "NotoSansThaana-ExtraLight.ttf",
+web_file_location: "fonts/NotoSansThaana-ExtraLight.ttf",
+download_file_location: "fonts/NotoSansThaana-ExtraLight.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-Light",
+file_name: "NotoSansThaana-Light.ttf",
+web_file_location: "fonts/NotoSansThaana-Light.ttf",
+download_file_location: "fonts/NotoSansThaana-Light.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-Medium",
+file_name: "NotoSansThaana-Medium.ttf",
+web_file_location: "fonts/NotoSansThaana-Medium.ttf",
+download_file_location: "fonts/NotoSansThaana-Medium.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-Regular",
+file_name: "NotoSansThaana-Regular.ttf",
+web_file_location: "fonts/NotoSansThaana-Regular.ttf",
+download_file_location: "fonts/NotoSansThaana-Regular.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-SemiBold",
+file_name: "NotoSansThaana-SemiBold.ttf",
+web_file_location: "fonts/NotoSansThaana-SemiBold.ttf",
+download_file_location: "fonts/NotoSansThaana-SemiBold.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-Thin",
+file_name: "NotoSansThaana-Thin.ttf",
+web_file_location: "fonts/NotoSansThaana-Thin.ttf",
+download_file_location: "fonts/NotoSansThaana-Thin.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "NotoSansThaana-VariableFont wght",
+file_name: "NotoSansThaana-VariableFont_wght.ttf",
+web_file_location: "fonts/NotoSansThaana-VariableFont_wght.ttf",
+download_file_location: "fonts/NotoSansThaana-VariableFont_wght.ttf",
+download_font_size: "111 KB"
+},
+{
+name: "Randhoo reg hinted",
+file_name: "Randhoo_reg_hinted.ttf",
+web_file_location: "fonts/Randhoo_reg_hinted.ttf",
+download_file_location: "fonts/Randhoo_reg_hinted.ttf",
+download_font_size: "71 KB"
 },
 {
 name: "Samee Avas Thaana",
