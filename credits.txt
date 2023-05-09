@@ -12,7 +12,7 @@ FONTS SOURCES
 > https://www.dhivehi.mv/fonts
 > https://fontspace.com
 > https://fonts.google.com
-> https://www.hassanhameed.com/
+> https://www.hassanhameed.com
 
 SPECIAL THANKS TO
 > Developers and content providers of www.dhivehi.mv
