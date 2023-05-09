@@ -1,7 +1,6 @@
 # raajjefonts.github.io
-(Under Development)
 
-Maldivian Fonts Repository - the only Maldivian fonts repository you will need
+A Maldivian fonts repository which puts Maldivian fonts developed by aspiring individuals and groups into a single place.
 
 
 by <a href="https://saaiqsas.github.io">saaiqSAS</a> 
