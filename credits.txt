@@ -1,15 +1,20 @@
-+---------+
-| CREDITS |
-+---------+
++---------------------------------+
+|             CREDITS             |
++---------------------------------+
+
+[CURRENT NUMBER OF FONT LISTINGS : 154]
 
 DEVELOPED AND MAINTAINED BY 
 > saaiqSAS (saaiqsas.github.io)
 
 FONTS SOURCES
-> https://thaana.com/
-> https://www.dhivehi.mv/fonts/
-> https://fontspace.com/
+> https://thaana.com
+> https://www.dhivehi.mv/fonts
+> https://fontspace.com
+> https://fonts.google.com
+> https://www.hassanhameed.com/
 
 SPECIAL THANKS TO
 > Developers and content providers of www.dhivehi.mv
 > Developers and content providers of thaana.com
+> Developers and content providers of www.hassanhameed.com
