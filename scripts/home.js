@@ -162,11 +162,81 @@ download_file_location: "fonts/A_Waheed_College.otf",
 download_font_size: "63 KB"
 },
 {
+name: "Besmellah 2",
+file_name: "Besmellah_2.ttf",
+web_file_location: "fonts/Besmellah_2.ttf",
+download_file_location: "fonts/Besmellah_2.ttf",
+download_font_size: "517 KB"
+},
+{
 name: "BODUKURU Light",
 file_name: "BODUKURU_Light.otf",
 web_file_location: "fonts/BODUKURU_Light.otf",
 download_file_location: "fonts/BODUKURU_Light.otf",
 download_font_size: "20 KB"
+},
+{
+name: "Bolhu-Black",
+file_name: "Bolhu-Black.ttf",
+web_file_location: "fonts/Bolhu-Black.ttf",
+download_file_location: "fonts/Bolhu-Black.ttf",
+download_font_size: "132 KB"
+},
+{
+name: "Bolhu-Bold",
+file_name: "Bolhu-Bold.ttf",
+web_file_location: "fonts/Bolhu-Bold.ttf",
+download_file_location: "fonts/Bolhu-Bold.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "Bolhu-ExtraBold",
+file_name: "Bolhu-ExtraBold.ttf",
+web_file_location: "fonts/Bolhu-ExtraBold.ttf",
+download_file_location: "fonts/Bolhu-ExtraBold.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "Bolhu-ExtraLight",
+file_name: "Bolhu-ExtraLight.ttf",
+web_file_location: "fonts/Bolhu-ExtraLight.ttf",
+download_file_location: "fonts/Bolhu-ExtraLight.ttf",
+download_font_size: "133 KB"
+},
+{
+name: "Bolhu-Light",
+file_name: "Bolhu-Light.ttf",
+web_file_location: "fonts/Bolhu-Light.ttf",
+download_file_location: "fonts/Bolhu-Light.ttf",
+download_font_size: "134 KB"
+},
+{
+name: "Bolhu-Medium",
+file_name: "Bolhu-Medium.ttf",
+web_file_location: "fonts/Bolhu-Medium.ttf",
+download_file_location: "fonts/Bolhu-Medium.ttf",
+download_font_size: "132 KB"
+},
+{
+name: "Bolhu-Regular",
+file_name: "Bolhu-Regular.ttf",
+web_file_location: "fonts/Bolhu-Regular.ttf",
+download_file_location: "fonts/Bolhu-Regular.ttf",
+download_font_size: "133 KB"
+},
+{
+name: "Bolhu-SemiBold",
+file_name: "Bolhu-SemiBold.ttf",
+web_file_location: "fonts/Bolhu-SemiBold.ttf",
+download_file_location: "fonts/Bolhu-SemiBold.ttf",
+download_font_size: "137 KB"
+},
+{
+name: "Bolhu-Thin",
+file_name: "Bolhu-Thin.ttf",
+web_file_location: "fonts/Bolhu-Thin.ttf",
+download_file_location: "fonts/Bolhu-Thin.ttf",
+download_font_size: "128 KB"
 },
 {
 name: "DAM Hiyani",
@@ -211,11 +281,158 @@ download_file_location: "fonts/Dhives.ttf",
 download_font_size: "23 KB"
 },
 {
+name: "FaagathiDheli-Light",
+file_name: "FaagathiDheli-Light.ttf",
+web_file_location: "fonts/FaagathiDheli-Light.ttf",
+download_file_location: "fonts/FaagathiDheli-Light.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaagathiDheli-Regular",
+file_name: "FaagathiDheli-Regular.ttf",
+web_file_location: "fonts/FaagathiDheli-Regular.ttf",
+download_file_location: "fonts/FaagathiDheli-Regular.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaagathiNeon-Bold",
+file_name: "FaagathiNeon-Bold.ttf",
+web_file_location: "fonts/FaagathiNeon-Bold.ttf",
+download_file_location: "fonts/FaagathiNeon-Bold.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaagathiNeon-ExtraLight",
+file_name: "FaagathiNeon-ExtraLight.ttf",
+web_file_location: "fonts/FaagathiNeon-ExtraLight.ttf",
+download_file_location: "fonts/FaagathiNeon-ExtraLight.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaagathiNeon-Light",
+file_name: "FaagathiNeon-Light.ttf",
+web_file_location: "fonts/FaagathiNeon-Light.ttf",
+download_file_location: "fonts/FaagathiNeon-Light.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaagathiNeon-Regular",
+file_name: "FaagathiNeon-Regular.ttf",
+web_file_location: "fonts/FaagathiNeon-Regular.ttf",
+download_file_location: "fonts/FaagathiNeon-Regular.ttf",
+download_font_size: "22 KB"
+},
+{
+name: "FaaruPunk-Bold",
+file_name: "FaaruPunk-Bold.ttf",
+web_file_location: "fonts/FaaruPunk-Bold.ttf",
+download_file_location: "fonts/FaaruPunk-Bold.ttf",
+download_font_size: "13 KB"
+},
+{
+name: "FaaruPunk-Regular",
+file_name: "FaaruPunk-Regular.ttf",
+web_file_location: "fonts/FaaruPunk-Regular.ttf",
+download_file_location: "fonts/FaaruPunk-Regular.ttf",
+download_font_size: "13 KB"
+},
+{
 name: "Faiy Light",
 file_name: "Faiy_Light.otf",
 web_file_location: "fonts/Faiy_Light.otf",
 download_file_location: "fonts/Faiy_Light.otf",
 download_font_size: "35 KB"
+},
+{
+name: "Fanara-Black",
+file_name: "Fanara-Black.ttf",
+web_file_location: "fonts/Fanara-Black.ttf",
+download_file_location: "fonts/Fanara-Black.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "Fanara-Bold",
+file_name: "Fanara-Bold.ttf",
+web_file_location: "fonts/Fanara-Bold.ttf",
+download_file_location: "fonts/Fanara-Bold.ttf",
+download_font_size: "138 KB"
+},
+{
+name: "Fanara-Regular",
+file_name: "Fanara-Regular.ttf",
+web_file_location: "fonts/Fanara-Regular.ttf",
+download_file_location: "fonts/Fanara-Regular.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "Fanara-Thin",
+file_name: "Fanara-Thin.ttf",
+web_file_location: "fonts/Fanara-Thin.ttf",
+download_file_location: "fonts/Fanara-Thin.ttf",
+download_font_size: "130 KB"
+},
+{
+name: "FanaraGolhi-Black",
+file_name: "FanaraGolhi-Black.ttf",
+web_file_location: "fonts/FanaraGolhi-Black.ttf",
+download_file_location: "fonts/FanaraGolhi-Black.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-Bold",
+file_name: "FanaraGolhi-Bold.ttf",
+web_file_location: "fonts/FanaraGolhi-Bold.ttf",
+download_file_location: "fonts/FanaraGolhi-Bold.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-ExtraBold",
+file_name: "FanaraGolhi-ExtraBold.ttf",
+web_file_location: "fonts/FanaraGolhi-ExtraBold.ttf",
+download_file_location: "fonts/FanaraGolhi-ExtraBold.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-ExtraLight",
+file_name: "FanaraGolhi-ExtraLight.ttf",
+web_file_location: "fonts/FanaraGolhi-ExtraLight.ttf",
+download_file_location: "fonts/FanaraGolhi-ExtraLight.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-Light",
+file_name: "FanaraGolhi-Light.ttf",
+web_file_location: "fonts/FanaraGolhi-Light.ttf",
+download_file_location: "fonts/FanaraGolhi-Light.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-Medium",
+file_name: "FanaraGolhi-Medium.ttf",
+web_file_location: "fonts/FanaraGolhi-Medium.ttf",
+download_file_location: "fonts/FanaraGolhi-Medium.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-Regular",
+file_name: "FanaraGolhi-Regular.ttf",
+web_file_location: "fonts/FanaraGolhi-Regular.ttf",
+download_file_location: "fonts/FanaraGolhi-Regular.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-SemiBold",
+file_name: "FanaraGolhi-SemiBold.ttf",
+web_file_location: "fonts/FanaraGolhi-SemiBold.ttf",
+download_file_location: "fonts/FanaraGolhi-SemiBold.ttf",
+download_font_size: "14 KB"
+},
+{
+name: "FanaraGolhi-Thin",
+file_name: "FanaraGolhi-Thin.ttf",
+web_file_location: "fonts/FanaraGolhi-Thin.ttf",
+download_file_location: "fonts/FanaraGolhi-Thin.ttf",
+download_font_size: "14 KB"
 },
 {
 name: "Faruma",
@@ -225,11 +442,137 @@ download_file_location: "fonts/Faruma.otf",
 download_font_size: "78 KB"
 },
 {
+name: "Fiyuzu-Regular",
+file_name: "Fiyuzu-Regular.ttf",
+web_file_location: "fonts/Fiyuzu-Regular.ttf",
+download_file_location: "fonts/Fiyuzu-Regular.ttf",
+download_font_size: "68 KB"
+},
+{
+name: "Gurafiku-Regular",
+file_name: "Gurafiku-Regular.ttf",
+web_file_location: "fonts/Gurafiku-Regular.ttf",
+download_file_location: "fonts/Gurafiku-Regular.ttf",
+download_font_size: "11 KB"
+},
+{
+name: "Haluvidhaa-Regular",
+file_name: "Haluvidhaa-Regular.ttf",
+web_file_location: "fonts/Haluvidhaa-Regular.ttf",
+download_file_location: "fonts/Haluvidhaa-Regular.ttf",
+download_font_size: "24 KB"
+},
+{
+name: "Hawwa-Regular",
+file_name: "Hawwa-Regular.ttf",
+web_file_location: "fonts/Hawwa-Regular.ttf",
+download_file_location: "fonts/Hawwa-Regular.ttf",
+download_font_size: "21 KB"
+},
+{
+name: "Kolhu-Black",
+file_name: "Kolhu-Black.ttf",
+web_file_location: "fonts/Kolhu-Black.ttf",
+download_file_location: "fonts/Kolhu-Black.ttf",
+download_font_size: "131 KB"
+},
+{
+name: "Kolhu-Bold",
+file_name: "Kolhu-Bold.ttf",
+web_file_location: "fonts/Kolhu-Bold.ttf",
+download_file_location: "fonts/Kolhu-Bold.ttf",
+download_font_size: "134 KB"
+},
+{
+name: "Kolhu-ExtraBold",
+file_name: "Kolhu-ExtraBold.ttf",
+web_file_location: "fonts/Kolhu-ExtraBold.ttf",
+download_file_location: "fonts/Kolhu-ExtraBold.ttf",
+download_font_size: "134 KB"
+},
+{
+name: "Kolhu-ExtraLight",
+file_name: "Kolhu-ExtraLight.ttf",
+web_file_location: "fonts/Kolhu-ExtraLight.ttf",
+download_file_location: "fonts/Kolhu-ExtraLight.ttf",
+download_font_size: "132 KB"
+},
+{
+name: "Kolhu-Light",
+file_name: "Kolhu-Light.ttf",
+web_file_location: "fonts/Kolhu-Light.ttf",
+download_file_location: "fonts/Kolhu-Light.ttf",
+download_font_size: "132 KB"
+},
+{
+name: "Kolhu-Medium",
+file_name: "Kolhu-Medium.ttf",
+web_file_location: "fonts/Kolhu-Medium.ttf",
+download_file_location: "fonts/Kolhu-Medium.ttf",
+download_font_size: "131 KB"
+},
+{
+name: "Kolhu-Regular",
+file_name: "Kolhu-Regular.ttf",
+web_file_location: "fonts/Kolhu-Regular.ttf",
+download_file_location: "fonts/Kolhu-Regular.ttf",
+download_font_size: "131 KB"
+},
+{
+name: "Kolhu-SemiBold",
+file_name: "Kolhu-SemiBold.ttf",
+web_file_location: "fonts/Kolhu-SemiBold.ttf",
+download_file_location: "fonts/Kolhu-SemiBold.ttf",
+download_font_size: "136 KB"
+},
+{
+name: "Kolhu-Thin",
+file_name: "Kolhu-Thin.ttf",
+web_file_location: "fonts/Kolhu-Thin.ttf",
+download_file_location: "fonts/Kolhu-Thin.ttf",
+download_font_size: "127 KB"
+},
+{
+name: "LCDThaana-Regular",
+file_name: "LCDThaana-Regular.ttf",
+web_file_location: "fonts/LCDThaana-Regular.ttf",
+download_file_location: "fonts/LCDThaana-Regular.ttf",
+download_font_size: "58 KB"
+},
+{
+name: "MasnooeeMono-Regular",
+file_name: "MasnooeeMono-Regular.ttf",
+web_file_location: "fonts/MasnooeeMono-Regular.ttf",
+download_file_location: "fonts/MasnooeeMono-Regular.ttf",
+download_font_size: "108 KB"
+},
+{
 name: "midhilibold",
 file_name: "midhilibold.ttf",
 web_file_location: "fonts/midhilibold.ttf",
 download_file_location: "fonts/midhilibold.ttf",
 download_font_size: "76 KB"
+},
+{
+name: "MotaruDhigu-Regular",
+file_name: "MotaruDhigu-Regular.ttf",
+web_file_location: "fonts/MotaruDhigu-Regular.ttf",
+download_file_location: "fonts/MotaruDhigu-Regular.ttf",
+download_font_size: "51 KB"
+},
+{
+name: "MotaruSquare-Regular",
+file_name: "MotaruSquare-Regular.ttf",
+web_file_location: "fonts/MotaruSquare-Regular.ttf",
+download_file_location: "fonts/MotaruSquare-Regular.ttf",
+download_font_size: "17 KB"
+},
+{
+name: "MvJadheedh-rq5O",
+file_name: "MvJadheedh-rq5O.ttf",
+web_file_location: "fonts/MvJadheedh-rq5O.ttf",
+download_file_location: "fonts/MvJadheedh-rq5O.ttf",
+download_font_size: "83 KB"
 },
 {
 name: "MVWaheed",
@@ -377,6 +720,153 @@ file_name: "Samee_Avas_Thaana.ttf",
 web_file_location: "fonts/Samee_Avas_Thaana.ttf",
 download_file_location: "fonts/Samee_Avas_Thaana.ttf",
 download_font_size: "48 KB"
+},
+{
+name: "SanguSuruhee-Regular",
+file_name: "SanguSuruhee-Regular.ttf",
+web_file_location: "fonts/SanguSuruhee-Regular.ttf",
+download_file_location: "fonts/SanguSuruhee-Regular.ttf",
+download_font_size: "21 KB"
+},
+{
+name: "Theras-Black",
+file_name: "Theras-Black.ttf",
+web_file_location: "fonts/Theras-Black.ttf",
+download_file_location: "fonts/Theras-Black.ttf",
+download_font_size: "128 KB"
+},
+{
+name: "Theras-Bold",
+file_name: "Theras-Bold.ttf",
+web_file_location: "fonts/Theras-Bold.ttf",
+download_file_location: "fonts/Theras-Bold.ttf",
+download_font_size: "131 KB"
+},
+{
+name: "Theras-ExtraBold",
+file_name: "Theras-ExtraBold.ttf",
+web_file_location: "fonts/Theras-ExtraBold.ttf",
+download_file_location: "fonts/Theras-ExtraBold.ttf",
+download_font_size: "130 KB"
+},
+{
+name: "Theras-ExtraLight",
+file_name: "Theras-ExtraLight.ttf",
+web_file_location: "fonts/Theras-ExtraLight.ttf",
+download_file_location: "fonts/Theras-ExtraLight.ttf",
+download_font_size: "128 KB"
+},
+{
+name: "Theras-Light",
+file_name: "Theras-Light.ttf",
+web_file_location: "fonts/Theras-Light.ttf",
+download_file_location: "fonts/Theras-Light.ttf",
+download_font_size: "128 KB"
+},
+{
+name: "Theras-Medium",
+file_name: "Theras-Medium.ttf",
+web_file_location: "fonts/Theras-Medium.ttf",
+download_file_location: "fonts/Theras-Medium.ttf",
+download_font_size: "127 KB"
+},
+{
+name: "Theras-Regular",
+file_name: "Theras-Regular.ttf",
+web_file_location: "fonts/Theras-Regular.ttf",
+download_file_location: "fonts/Theras-Regular.ttf",
+download_font_size: "128 KB"
+},
+{
+name: "Theras-SemiBold",
+file_name: "Theras-SemiBold.ttf",
+web_file_location: "fonts/Theras-SemiBold.ttf",
+download_file_location: "fonts/Theras-SemiBold.ttf",
+download_font_size: "132 KB"
+},
+{
+name: "Theras-Thin",
+file_name: "Theras-Thin.ttf",
+web_file_location: "fonts/Theras-Thin.ttf",
+download_file_location: "fonts/Theras-Thin.ttf",
+download_font_size: "123 KB"
+},
+{
+name: "Viethaana-Bold",
+file_name: "Viethaana-Bold.ttf",
+web_file_location: "fonts/Viethaana-Bold.ttf",
+download_file_location: "fonts/Viethaana-Bold.ttf",
+download_font_size: "134 KB"
+},
+{
+name: "Viethaana-Light",
+file_name: "Viethaana-Light.ttf",
+web_file_location: "fonts/Viethaana-Light.ttf",
+download_file_location: "fonts/Viethaana-Light.ttf",
+download_font_size: "130 KB"
+},
+{
+name: "ZaanaThedhu-Black",
+file_name: "ZaanaThedhu-Black.ttf",
+web_file_location: "fonts/ZaanaThedhu-Black.ttf",
+download_file_location: "fonts/ZaanaThedhu-Black.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "ZaanaThedhu-Bold",
+file_name: "ZaanaThedhu-Bold.ttf",
+web_file_location: "fonts/ZaanaThedhu-Bold.ttf",
+download_file_location: "fonts/ZaanaThedhu-Bold.ttf",
+download_font_size: "139 KB"
+},
+{
+name: "ZaanaThedhu-ExtraBold",
+file_name: "ZaanaThedhu-ExtraBold.ttf",
+web_file_location: "fonts/ZaanaThedhu-ExtraBold.ttf",
+download_file_location: "fonts/ZaanaThedhu-ExtraBold.ttf",
+download_font_size: "138 KB"
+},
+{
+name: "ZaanaThedhu-ExtraLight",
+file_name: "ZaanaThedhu-ExtraLight.ttf",
+web_file_location: "fonts/ZaanaThedhu-ExtraLight.ttf",
+download_file_location: "fonts/ZaanaThedhu-ExtraLight.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "ZaanaThedhu-Light",
+file_name: "ZaanaThedhu-Light.ttf",
+web_file_location: "fonts/ZaanaThedhu-Light.ttf",
+download_file_location: "fonts/ZaanaThedhu-Light.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "ZaanaThedhu-Medium",
+file_name: "ZaanaThedhu-Medium.ttf",
+web_file_location: "fonts/ZaanaThedhu-Medium.ttf",
+download_file_location: "fonts/ZaanaThedhu-Medium.ttf",
+download_font_size: "134 KB"
+},
+{
+name: "ZaanaThedhu-Regular",
+file_name: "ZaanaThedhu-Regular.ttf",
+web_file_location: "fonts/ZaanaThedhu-Regular.ttf",
+download_file_location: "fonts/ZaanaThedhu-Regular.ttf",
+download_font_size: "135 KB"
+},
+{
+name: "ZaanaThedhu-SemiBold",
+file_name: "ZaanaThedhu-SemiBold.ttf",
+web_file_location: "fonts/ZaanaThedhu-SemiBold.ttf",
+download_file_location: "fonts/ZaanaThedhu-SemiBold.ttf",
+download_font_size: "139 KB"
+},
+{
+name: "ZaanaThedhu-Thin",
+file_name: "ZaanaThedhu-Thin.ttf",
+web_file_location: "fonts/ZaanaThedhu-Thin.ttf",
+download_file_location: "fonts/ZaanaThedhu-Thin.ttf",
+download_font_size: "130 KB"
 }
 ];
 
