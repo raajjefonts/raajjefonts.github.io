@@ -13,8 +13,14 @@ FONTS SOURCES
 > https://fontspace.com
 > https://fonts.google.com
 > https://www.hassanhameed.com
+> https://dhivehifont.com
 
 SPECIAL THANKS TO
 > Developers and content providers of www.dhivehi.mv
 > Developers and content providers of thaana.com
 > Developers and content providers of www.hassanhameed.com
+> Developers and content providers of dhivehifont.com
+
+LICENSES
+> SIL Open Font License (OFL) (https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
