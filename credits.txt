@@ -2,7 +2,7 @@
 |             CREDITS             |
 +---------------------------------+
 
-[CURRENT NUMBER OF FONT LISTINGS : 154]
+[CURRENT NUMBER OF FONT LISTINGS : 181]
 
 DEVELOPED AND MAINTAINED BY 
 > saaiqSAS (saaiqsas.github.io)
