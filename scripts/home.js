@@ -1,4 +1,9 @@
 // listings
+/*
+var fontsListing = [
+];
+*/
+
 var fontsListing = [
 {
 name: "aammufkF",
@@ -708,6 +713,13 @@ download_file_location: "fonts/mv_akalight_regular.ttf",
 download_font_size: "239 KB"
 },
 {
+name: "MV Alram",
+file_name: "MV_Alram.ttf",
+web_file_location: "fonts/MV_Alram.ttf",
+download_file_location: "fonts/MV_Alram.ttf",
+download_font_size: "68 KB"
+},
+{
 name: "Mv Amaan XP",
 file_name: "Mv_Amaan_XP.otf",
 web_file_location: "fonts/Mv_Amaan_XP.otf",
@@ -722,11 +734,25 @@ download_file_location: "fonts/MV_Boli.otf",
 download_font_size: "43 KB"
 },
 {
+name: "MV Dheli Fihi",
+file_name: "MV_Dheli_Fihi.ttf",
+web_file_location: "fonts/MV_Dheli_Fihi.ttf",
+download_file_location: "fonts/MV_Dheli_Fihi.ttf",
+download_font_size: "163 KB"
+},
+{
 name: "Mv Eamaan XP",
 file_name: "Mv_Eamaan_XP.otf",
 web_file_location: "fonts/Mv_Eamaan_XP.otf",
 download_file_location: "fonts/Mv_Eamaan_XP.otf",
 download_font_size: "20 KB"
+},
+{
+name: "Mv Edhuru",
+file_name: "Mv_Edhuru.ttf",
+web_file_location: "fonts/Mv_Edhuru.ttf",
+download_file_location: "fonts/Mv_Edhuru.ttf",
+download_font_size: "77 KB"
 },
 {
 name: "Mv Elaaf Lite",
@@ -748,6 +774,20 @@ file_name: "MV_Faseyha.otf",
 web_file_location: "fonts/MV_Faseyha.otf",
 download_file_location: "fonts/MV_Faseyha.otf",
 download_font_size: "25 KB"
+},
+{
+name: "MV Fathimath",
+file_name: "MV_Fathimath.ttf",
+web_file_location: "fonts/MV_Fathimath.ttf",
+download_file_location: "fonts/MV_Fathimath.ttf",
+download_font_size: "59 KB"
+},
+{
+name: "MV Gaa Lhohi",
+file_name: "MV_Gaa_Lhohi.ttf",
+web_file_location: "fonts/MV_Gaa_Lhohi.ttf",
+download_file_location: "fonts/MV_Gaa_Lhohi.ttf",
+download_font_size: "46 KB"
 },
 {
 name: "Mv Galan Normal",
@@ -785,11 +825,123 @@ download_file_location: "fonts/Mv_Iyyu_Normal.otf",
 download_font_size: "20 KB"
 },
 {
+name: "MV Izyan Athuliyun",
+file_name: "MV_Izyan_Athuliyun.ttf",
+web_file_location: "fonts/MV_Izyan_Athuliyun.ttf",
+download_file_location: "fonts/MV_Izyan_Athuliyun.ttf",
+download_font_size: "31 KB"
+},
+{
+name: "MV Izyan Athuliyun Light",
+file_name: "MV_Izyan_Athuliyun_Light.ttf",
+web_file_location: "fonts/MV_Izyan_Athuliyun_Light.ttf",
+download_file_location: "fonts/MV_Izyan_Athuliyun_Light.ttf",
+download_font_size: "46 KB"
+},
+{
+name: "MV Izyan Boduakuru 3D Bold",
+file_name: "MV_Izyan_Boduakuru_3D_Bold.ttf",
+web_file_location: "fonts/MV_Izyan_Boduakuru_3D_Bold.ttf",
+download_file_location: "fonts/MV_Izyan_Boduakuru_3D_Bold.ttf",
+download_font_size: "97 KB"
+},
+{
+name: "MV Izyan Bodu Akuru",
+file_name: "MV_Izyan_Bodu_Akuru.ttf",
+web_file_location: "fonts/MV_Izyan_Bodu_Akuru.ttf",
+download_file_location: "fonts/MV_Izyan_Bodu_Akuru.ttf",
+download_font_size: "58 KB"
+},
+{
+name: "MV Izyan Light",
+file_name: "MV_Izyan_Light.ttf",
+web_file_location: "fonts/MV_Izyan_Light.ttf",
+download_file_location: "fonts/MV_Izyan_Light.ttf",
+download_font_size: "67 KB"
+},
+{
+name: "MV Izyan Liyun Regular",
+file_name: "MV_Izyan_Liyun_Regular.ttf",
+web_file_location: "fonts/MV_Izyan_Liyun_Regular.ttf",
+download_file_location: "fonts/MV_Izyan_Liyun_Regular.ttf",
+download_font_size: "63 KB"
+},
+{
+name: "MV Izyan Normal",
+file_name: "MV_Izyan_Normal.ttf",
+web_file_location: "fonts/MV_Izyan_Normal.ttf",
+download_file_location: "fonts/MV_Izyan_Normal.ttf",
+download_font_size: "71 KB"
+},
+{
+name: "MV Izyan Regular",
+file_name: "MV_Izyan_Regular.ttf",
+web_file_location: "fonts/MV_Izyan_Regular.ttf",
+download_file_location: "fonts/MV_Izyan_Regular.ttf",
+download_font_size: "32 KB"
+},
+{
+name: "MV Izyan Suruhee",
+file_name: "MV_Izyan_Suruhee.ttf",
+web_file_location: "fonts/MV_Izyan_Suruhee.ttf",
+download_file_location: "fonts/MV_Izyan_Suruhee.ttf",
+download_font_size: "43 KB"
+},
+{
+name: "Mv Izyan Thaana",
+file_name: "Mv_Izyan_Thaana.ttf",
+web_file_location: "fonts/Mv_Izyan_Thaana.ttf",
+download_file_location: "fonts/Mv_Izyan_Thaana.ttf",
+download_font_size: "67 KB"
+},
+{
+name: "MV Izyan Thin",
+file_name: "MV_Izyan_Thin.ttf",
+web_file_location: "fonts/MV_Izyan_Thin.ttf",
+download_file_location: "fonts/MV_Izyan_Thin.ttf",
+download_font_size: "72 KB"
+},
+{
+name: "MV Izy Pro",
+file_name: "MV_Izy_Pro.ttf",
+web_file_location: "fonts/MV_Izy_Pro.ttf",
+download_file_location: "fonts/MV_Izy_Pro.ttf",
+download_font_size: "51 KB"
+},
+{
+name: "MV Karudhas",
+file_name: "MV_Karudhas.ttf",
+web_file_location: "fonts/MV_Karudhas.ttf",
+download_file_location: "fonts/MV_Karudhas.ttf",
+download_font_size: "25 KB"
+},
+{
+name: "MV Karudhas Outline",
+file_name: "MV_Karudhas_Outline.ttf",
+web_file_location: "fonts/MV_Karudhas_Outline.ttf",
+download_file_location: "fonts/MV_Karudhas_Outline.ttf",
+download_font_size: "39 KB"
+},
+{
 name: "Mv Lady Luck",
 file_name: "Mv_Lady_Luck.otf",
 web_file_location: "fonts/Mv_Lady_Luck.otf",
 download_file_location: "fonts/Mv_Lady_Luck.otf",
 download_font_size: "23 KB"
+},
+{
+name: "MV Lhohi",
+file_name: "MV_Lhohi.ttf",
+web_file_location: "fonts/MV_Lhohi.ttf",
+download_file_location: "fonts/MV_Lhohi.ttf",
+download_font_size: "66 KB"
+},
+{
+name: "MV Lhohi Bold",
+file_name: "MV_Lhohi_Bold.ttf",
+web_file_location: "fonts/MV_Lhohi_Bold.ttf",
+download_file_location: "fonts/MV_Lhohi_Bold.ttf",
+download_font_size: "52 KB"
 },
 {
 name: "Mv MAG Round Bold",
@@ -813,6 +965,27 @@ download_file_location: "fonts/Mv_MAG_Round_XBold.otf",
 download_font_size: "20 KB"
 },
 {
+name: "MV Maryam",
+file_name: "MV_Maryam.ttf",
+web_file_location: "fonts/MV_Maryam.ttf",
+download_file_location: "fonts/MV_Maryam.ttf",
+download_font_size: "41 KB"
+},
+{
+name: "MV Nerumagu",
+file_name: "MV_Nerumagu.ttf",
+web_file_location: "fonts/MV_Nerumagu.ttf",
+download_file_location: "fonts/MV_Nerumagu.ttf",
+download_font_size: "41 KB"
+},
+{
+name: "MV Nevi Raheem",
+file_name: "MV_Nevi_Raheem.ttf",
+web_file_location: "fonts/MV_Nevi_Raheem.ttf",
+download_file_location: "fonts/MV_Nevi_Raheem.ttf",
+download_font_size: "83 KB"
+},
+{
 name: "mv oswald reg",
 file_name: "mv_oswald_reg.ttf",
 web_file_location: "fonts/mv_oswald_reg.ttf",
@@ -832,6 +1005,20 @@ file_name: "Mv_Sehga_Old.otf",
 web_file_location: "fonts/Mv_Sehga_Old.otf",
 download_file_location: "fonts/Mv_Sehga_Old.otf",
 download_font_size: "22 KB"
+},
+{
+name: "MV Suruhee",
+file_name: "MV_Suruhee.ttf",
+web_file_location: "fonts/MV_Suruhee.ttf",
+download_file_location: "fonts/MV_Suruhee.ttf",
+download_font_size: "46 KB"
+},
+{
+name: "MV Thakurufaanu",
+file_name: "MV_Thakurufaanu.ttf",
+web_file_location: "fonts/MV_Thakurufaanu.ttf",
+download_file_location: "fonts/MV_Thakurufaanu.ttf",
+download_font_size: "42 KB"
 },
 {
 name: "MV Waheed",
@@ -1002,6 +1189,13 @@ download_file_location: "fonts/Theras-Thin.ttf",
 download_font_size: "123 KB"
 },
 {
+name: "THIKI",
+file_name: "THIKI.ttf",
+web_file_location: "fonts/THIKI.ttf",
+download_file_location: "fonts/THIKI.ttf",
+download_font_size: "61 KB"
+},
+{
 name: "Viethaana-Bold",
 file_name: "Viethaana-Bold.ttf",
 web_file_location: "fonts/Viethaana-Bold.ttf",
@@ -1079,7 +1273,6 @@ download_file_location: "fonts/ZaanaThedhu-Thin.ttf",
 download_font_size: "130 KB"
 }
 ];
-
 
 // actual processing 
 
