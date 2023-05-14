@@ -99,9 +99,11 @@ p {
 	}
 }
 
-#navBar:hover {
-	padding-left: 100px;
-	width: 210px;
+@media screen and (min-width: 500px) {
+	#navBar:hover {
+		padding-left: 100px;
+		width: 210px;
+	}
 }
 
 #logoDiv {
@@ -172,7 +174,7 @@ p {
 }
 
 #test {
-	width: 400px;
+	width: 350px;
 	height: 42px;
 	border: dashed 2px #ffff99;
 	color: #ffff99;
@@ -192,10 +194,18 @@ p {
 	margin-bottom: 20px;
 }
 
-
 #test:focus {
 	outline: none !important;
-	transform: scale(1.1);
+}
+	
+@media screen and (min-width: 500px) {
+	#test {
+		width: 400px;
+	}
+	#test:focus {
+		outline: none !important;
+		transform: scale(1.1);
+	}
 }
 
 #intro {
