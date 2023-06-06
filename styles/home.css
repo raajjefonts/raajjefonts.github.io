@@ -1,6 +1,8 @@
-/*---overall page---*/
+/*---by saaiqSAS---*/
 body {
-	background-color: #005580;
+	background-color: #296D7A;
+	background: rgb(1,55,65);
+    background: linear-gradient(0deg, rgba(1,55,65,1) 0%, rgba(41,109,122,1) 95%);
 	color: #FFFFFF;
 	font-family: sans-serif;
 	opacity: 0;
@@ -24,6 +26,37 @@ main {
 	margin-right: 10px;
 }
 
+#background-image {
+	position: absolute;
+	float: top;
+	z-index: -1;
+	height: 700px;
+	width:100%;
+	overflow: hidden;
+	transform: translate(-8px,-10px);
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	draggable: false;
+	
+}
+
+@media screen and (max-width: 800px) {
+	#background-image {
+		position: absolute;
+		float: top;
+		z-index: -1;
+		height: 800px;
+		width:100%;
+		overflow: hidden;
+		transform: translate(-8px,-10px);
+		
+	}
+}
+
 .footer {
     width: 100%;
 	text-align: right;
@@ -43,7 +76,7 @@ a {
 }
 
 hr {
-	background-color: #ffff99;
+	background-color: #fbf8f3;
 	height: 3px;
 	margin-top: 50px;
 	margin-left: 10px;
@@ -51,13 +84,13 @@ hr {
 }
 
 ::-moz-selection {
-  color: #005580;
-  background: #FFFFFF;
+  color: #fbf8f3;
+  background: #296D7A;
 }
 
 ::selection {
-  color: #005580;
-  background: #FFFFFF;
+  color: #fbf8f3;
+  background: #296D7A;
 }
 
 p {
@@ -70,10 +103,6 @@ p {
 }
 /*---navigation Bar---*/
 #navBar {
-	background-color: #ffff99;
-	border-left:4px solid;
-	border-color: #006600;
-	border-radius: 0px 50px 50px 0px;
 	margin-bottom: 50px;
 	width: 250px;
 	height: 65px;
@@ -99,12 +128,6 @@ p {
 	}
 }
 
-@media screen and (min-width: 500px) {
-	#navBar:hover {
-		padding-left: 100px;
-		width: 210px;
-	}
-}
 
 #logoDiv {
 	float: left;
@@ -116,13 +139,20 @@ p {
 
 #logo {
 	color: #006600;
-	font-size: 30px;
+	height: 40px;
 	float: left|center;
 	margin-left: 5px;
 	margin-right: 5px;
 	padding-left: 2px;
 	padding-right: 2px;
-	border-radius: 100px;
+	margin-top: 14px;
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	draggable: false;
 }
 
 #logo:hover {
@@ -146,9 +176,9 @@ p {
 
 #credits {
 	width: 100px;
-	color: #FFFFFF;
-	background-color: #005580;
-	border: solid 2px #FFFFFF;
+	color: #296D7A;
+	background-color: #fbf8f3;
+	border: solid 2px #296D7A;
 	border-radius: 25px;
 	text-align: center;
 	font-weight: 600;
@@ -162,8 +192,8 @@ p {
 }
 
 #credits:hover {
-	color: #005580;
-	background-color: #FFFFFF;
+	color: #fbf8f3;
+	background-color: #296D7A;
 }
 
 #test-text-box {
@@ -176,10 +206,10 @@ p {
 #test {
 	width: 350px;
 	height: 42px;
-	border: dashed 2px #ffff99;
-	color: #ffff99;
+	border: dashed 2px #296D7A;
+	color: #296D7A;
 	font-family: "Faruma";
-	background-color: #005580;
+	background-color: #fbf8f3;
 	border-radius: 50px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -208,9 +238,13 @@ p {
 	}
 }
 
+.intro-text {
+	color: #296D7A;
+}
+
 #intro {
 	max-width: 700px;
-	margin-bottom: 10px;
+	margin-bottom: 220px;
 	font-weight: 600;
 }
 
@@ -248,20 +282,22 @@ p {
 	border-radius: 20px;
 	padding-bottom: 10px;
 	margin: 26px auto;
+	background-image: linear-gradient(0deg, #452c16 46.77%, #291504 46.77%, #291504 50%, #452c16 50%, #452c16 96.77%, #291504 96.77%, #291504 100%);
+	background-size: 62.00px 62.00px;
 }
 
 .listing-name {
 	width: 360px;
 	font-size: 25px;
 	font-weight: 1000;
-	color: #006600;
+	color: #DEBA50;
 	text-align: left;
 }
 
 .listing-display {
 	width: 350px;
 	height: 45px;
-	border: solid 2px #006600;
+	border: solid 2px #DEBA50;
 	background-color: #FFFFFF;
 	color: #000000;
 	direction: rtl;
@@ -278,7 +314,7 @@ p {
 	width: 360px;
 	font-size: 16px;
 	font-weight: 600;
-	color: #006600;
+	color: #DEBA50;
 	text-align: left;
 }
 
@@ -290,7 +326,7 @@ p {
 .listing-size {
 	font-size: 16px;
 	font-weight: 600;
-	color: #006600;
+	color: #DEBA50;
 	text-align: left;
 	padding-left: 20px;
 	flex-grow: 1;
@@ -299,9 +335,9 @@ p {
 .listing-download {
 	width: 150px;
 	height: 40px;
-	background-color: #ffff99;
-	border: solid 2px #005580;
-	color: #005580;
+	background-color: #452c16;
+	border: solid 2px #DEBA50;
+	color: #DEBA50;
 	font-weight: 600;
 	text-align: center;
 	float: right;
@@ -317,6 +353,6 @@ p {
 }
 
 .listing-download:hover {
-	background-color: #005580;
-	color: #ffff99;
+	background-color: #DEBA50;
+	color: #452c16;
 }
