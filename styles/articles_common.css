@@ -1,0 +1,370 @@
+/*---by saaiqSAS---*/
+body {
+	background-color: #296D7A;
+	/*
+	background: rgb(1,55,65);
+    background: linear-gradient(0deg, rgba(1,55,65,1) 0%, rgba(41,109,122,1) 95%);
+	*/
+	color: #FFFFFF;
+	font-family: sans-serif;
+	opacity: 0;
+	animation-name: bodyAnimation;
+	animation-duration: 0.5s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+@keyframes bodyAnimation {
+	0%{
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+main {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#background-image {
+	position: absolute;
+	float: top;
+	z-index: -1;
+	height: 700px;
+	width:100%;
+	overflow: hidden;
+	transform: translate(-8px,-100px);
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	draggable: false;
+	
+}
+
+@media screen and (max-width: 800px) {
+	#background-image {
+		position: absolute;
+		float: top;
+		z-index: -1;
+		height: 700px;
+		width:100%;
+		overflow: hidden;
+		transform: translate(-8px,-100px);
+		
+	}
+}
+
+.footer {
+    width: 100%;
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+	color: #aaaaaa;
+}
+
+.redirectText {
+	text-decoration: underline;
+}
+
+.redirectText:hover {
+	color: #757575;
+}
+
+hr {
+	background-color: #fbf8f3;
+	height: 3px;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+::-moz-selection {
+  color: #fbf8f3;
+  background: #296D7A;
+}
+
+::selection {
+  color: #fbf8f3;
+  background: #296D7A;
+}
+
+#hdr {
+	padding-bottom: 110px;
+	padding-right: 10px;
+}
+/*---navigation Bar---*/
+#navBar {
+	margin-bottom: 50px;
+	height: 65px;
+	transform: translate(-250px,0px);
+	animation-name: navBarAnimation;
+	animation-duration: 1.15s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+	-webkit-transition: all 0.5s ease;
+    	-moz-transition: all 0.5s ease;
+    	-o-transition: all 0.5s ease;
+    	-ms-transition: all 0.5s ease;
+    	transition: all 0.5s ease;
+	float: left;
+}
+
+@keyframes navBarAnimation {
+	0%{
+		transform: translate(-250px,00px);
+	}
+	100% {
+		transform: translate(-10px,0px);
+	}
+}
+
+
+#logoDiv {
+	float: left;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+
+.logo {
+	display: block;
+	color: #006600;
+	height: 40px;
+	float: left|center;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	margin-top: 16px;
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	draggable: false;
+}
+
+@media screen and (min-width: 600px) {
+	#logoDesktop { 
+		display: block;
+	}
+	
+	#logoMobile { 
+		display: none;
+	}
+	
+
+}
+
+
+@media screen and (max-width: 600px) {
+	#logoDesktop { 
+		display: none;
+	}
+	
+	#logoMobile {
+		display: block;
+	}
+	
+	.logo {
+		height: 60px;
+		margin-top: 6px;
+	}
+}
+
+#logoMobile:hover {
+	animation-name: logoDivHover;
+	animation-duration: 1s;
+	animation-iteration-count: 1;
+	animation-direction: forwards;
+}
+
+@keyframes logoDivHover {
+	0%{
+		transform: rotate(0deg)
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
+
+
+#credits {
+	width: 100px;
+	color: #296D7A;
+	background-color: #fbf8f3;
+	border: solid 2px #296D7A;
+	border-left: solid 1px #296D7A;
+	border-radius: 0px 25px 25px 0px;
+	text-align: center;
+	font-weight: 600;
+	padding: 10px;
+	-webkit-transition: all 0.2s ease;
+    	-moz-transition: all 0.2s ease;
+    	-o-transition: all 0.2s ease;
+    	-ms-transition: all 0.2s ease;
+    	transition: all 0.2s ease;
+	float: right;
+}
+
+#credits:hover {
+	color: #fbf8f3;
+	background-color: #296D7A;
+}
+
+#articles {
+	width: 100px;
+	color: #296D7A;
+	background-color: #fbf8f3;
+	border: solid 2px #296D7A;
+	border-right: solid 1px #296D7A;
+	border-radius: 25px 0px 0px 25px;
+	text-align: center;
+	font-weight: 600;
+	padding: 10px;
+	-webkit-transition: all 0.2s ease;
+    	-moz-transition: all 0.2s ease;
+    	-o-transition: all 0.2s ease;
+    	-ms-transition: all 0.2s ease;
+    	transition: all 0.2s ease;
+	float: right;
+}
+
+#articles:hover {
+	color: #fbf8f3;
+	background-color: #296D7A;
+}
+
+
+.intro-text {
+	color: #296D7A;
+}
+
+#heading {
+	font-weight: 600;
+	font-size: 60px;
+	margin-bottom: 350px;
+}
+
+@media screen and (max-width: 800px) {
+	#intro {
+		max-width: 700px;
+		margin-bottom: 260px;
+		font-weight: 600;
+	}
+}
+
+#alert_intro {
+	margin-bottom: 50px;
+	font-style: italic;
+}
+
+#article-page {
+	padding: 50px;
+	width: 70%;
+	margin: 0px auto;
+	border-radius: 25px;
+	background-color: #FFFFFF;
+}
+
+.heads {
+	color: #000000;
+	font-size: 45px;
+	font-weight: 600;
+	width: 100%;
+}
+
+.sub-heads {
+	color: #000000;
+	font-size: 30px;
+	font-weight: 600;
+	width: 100%;
+}
+
+.article-image-box {
+	width: 80%;
+	margin: 0px auto;
+	box-shadow: -1px 5px 19px -5px rgba(0,0,0,0.75);
+	-webkit-box-shadow: -1px 5px 19px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 5px 19px -5px rgba(0,0,0,0.75);
+	margin-bottom: 50px;
+}
+
+@media screen and (max-width: 600px) {
+	.article-image-box {
+		width: 100%;
+	}
+}
+
+.article-images {
+	width: 100%;
+}
+
+.tag {
+	color: #000000;
+	width: 100%;
+	font-size: 16px;
+}
+
+.by {
+	color: #404040;
+	width: 100%;
+	font-size: 14px;
+}
+
+.paragraph {
+	color: #404040;
+	font-size: 20px;
+	width: 100%;
+}
+
+.points {
+	color: #404040;
+	width: 100%;
+	font-size: 20px;
+}
+
+keys {
+	color: #404040;
+	font-size: 18px;
+	width: 10px;
+	border: solid 1px #404040;
+	border-radius: 4px;
+	padding-left:6px;
+	padding-right:6px;
+	font-family: 'Courier New', monospace;
+}
+
+#back {
+	color: #000000;
+	background-color: #FFFFFF;
+	border: solid 2px #000000;
+	border-radius: 25px;
+	padding: 10px;
+	margin-top: 70px;
+	width: 90px;
+	text-align: center;
+	font-weight: 600;
+	-webkit-transition: all 0.2s ease;
+    	-moz-transition: all 0.2s ease;
+    	-o-transition: all 0.2s ease;
+    	-ms-transition: all 0.2s ease;
+    	transition: all 0.2s ease;
+}
+
+#back:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+
