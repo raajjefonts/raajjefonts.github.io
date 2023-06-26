@@ -415,3 +415,40 @@ p {
 	background-color: #DEBA50;
 	color: #452c16;
 }
+
+#noti {
+	color: #000000;
+	background-color: #FFFFFF;
+	padding: 20px;
+	border-radius: 25px;
+	font-size: 25px;
+	font-weight: 600;
+	margin-top: 300px;
+	box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
+	-webkit-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
+	line-height: 45px;
+}
+
+highlight {
+	color: #296D7A;
+	background-color: #fbf8f3;
+	border: solid 2px #296D7A;
+	font-size: 28px;
+	border-radius: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	-webkit-transition: all 0.2s ease;
+    	-moz-transition: all 0.2s ease;
+    	-o-transition: all 0.2s ease;
+    	-ms-transition: all 0.2s ease;
+    	transition: all 0.2s ease;
+
+}
+
+highlight:hover {
+	color: #fbf8f3;
+	background-color: #296D7A;
+}
