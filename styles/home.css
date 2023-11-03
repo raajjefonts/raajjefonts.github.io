@@ -417,12 +417,11 @@ p {
 }
 
 #noti {
-	color: #000000;
+	color: #296D7A;
 	background-color: #FFFFFF;
 	padding: 20px;
 	border-radius: 25px;
 	font-size: 25px;
-	font-weight: 600;
 	margin-top: 300px;
 	box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
 	-webkit-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
@@ -451,4 +450,15 @@ highlight {
 highlight:hover {
 	color: #fbf8f3;
 	background-color: #296D7A;
+}
+
+keys {
+	color: #296D7A;
+	font-size: 28px;
+	width: 10px;
+	border: solid 1px #296D7A;
+	border-radius: 4px;
+	padding-left:6px;
+	padding-right:6px;
+	font-family: 'Courier New', monospace;
 }
