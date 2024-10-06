@@ -339,21 +339,12 @@ saaiqSAS:hover {
 	
 }
 
-@media screen and (min-width: 1260px) {
-	#listings-box {
-		width: 100%;
-		display: grid;
-		grid-template-columns: auto auto auto;
-	}
+#listings-box {
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
 }
 
-@media screen and (min-width: 900px) and (max-width: 1259px) {
-	#listings-box {
-		width: 100%;
-		display: grid;
-		grid-template-columns: auto auto;
-	}
-}
 
 .listing {
 	width: 400px;
