@@ -1281,12 +1281,6 @@ var testTextInput = document.getElementById("test");
 testText = testTextInput.value;
 
 
-if (window.localStorage.getItem('RaajjeFontsTestText')) {
-		testTextInput.value = window.localStorage.getItem('RaajjeFontsTestText');
-		testText = window.localStorage.getItem('RaajjeFontsTestText');
-}
-
-
 displayListings();
 
 function updateTestText() {
