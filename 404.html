@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title> Page Not Found | Raajje Fonts</title>
+			<link data-default-icon="imgs/favicon.png" rel="icon" sizes="192x192" href="imgs/favicon.png" />
+			<meta name="description" content="Maldivian fonts repository allowing easy access to a large number of Maldivian fonts developed by aspiring individuals and groups at a single place. | Dhivehi Fonts | Raajje Fonts | Maldivian Fonts | Thaana Fonts |">
+			<meta name="viewport" content="width=device-width, initial-scale=0.8, shrink-to-fit=yes">
+			<meta charset="utf-8">
+		</head>
+		
+		<link rel="stylesheet" href="styles/home.css"/>
+		
+		<body style="background-color: #296D7A; background: #296D7A;">
+			<img id="background-image" src="imgs/Background.png" style="height: 900px;"/>
+			<header id="hdr" >
+				<nav id="navBar">
+					<a href="index.html">
+						<div id="logoDiv">
+							<img class="logo" id="logoDesktop" src="imgs/RaajjefontsLogoName.png" alt="Raajje Fonts Logo"/>
+							<img class="logo" id="logoMobile" src="imgs/favicon.png" alt="Raajje Fonts Logo"/>
+						</div>
+					</a>			
+				</nav>
+				<a href="credits.txt">
+					<p id="credits" >Credits</p>
+				</a>
+				<a href="articles/articles.html">
+					<p id="articles" >Articles</p>
+				</a>
+			</header>
+			<main>
+				<center>
+					<h1 class="intro-text" style="margin-bottom: 50px; font-size: 40px;">Page Not Found</h1>
+					<p id="time" class="intro-text" style="max-width: 90%; margin-bottom: 600px;" > The page you're lokking for doesn't seem to exist. You'll be redirected to the home page in 5 seconds.</p>
+					
+				</center>
+				
+			</main>
+			<footer>
+				<div class="footer">
+					<hr/>
+					</br>
+					<center>
+						<p>send fonts, request fonts, request features or report bugs to <b>raajjefonts@gmail.com</b></p>
+						<p>developed and maintained by  <a class="redirectText" href="https://saaiqsas.github.io">saaiqSAS</a> |  <a class="redirectText" href="https://github.com/raajjefonts">Project GitHub</a></p>
+						<p id="copyrights">Copyrights (©) 2023-2024 raajjefonts</p>
+					</center>
+					</br>
+            	</div>
+			</footer>
+		</body>
+		<script type="text/javascript">
+		
+			// Copyrights
+			var currentYear = new Date().getFullYear();
+			document.getElementById('copyrights').textContent = "Copyrights (©) 2023-"+currentYear+" saaiqSAS";
+			
+			window.onload = function() {
+				let i = 5; 
+				function updateCountdown() {
+					if (i > 0) {
+						document.getElementById("time").textContent = 
+							"The page you're looking for doesn't seem to exist. You'll be redirected to the home page in " + i + " seconds.";
+						i--;
+						setTimeout(updateCountdown, 1000);
+					} else {
+						window.location.href = 'https://raajjefonts.github.io';
+					}
+				}
+				updateCountdown();
+			};
+		</script>
+	</html>
