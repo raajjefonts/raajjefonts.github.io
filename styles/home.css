@@ -333,64 +333,65 @@ saaiqSAS:hover {
 }
 
 #listings-box {
-	width: 100%;
-	display: grid;
-	grid-template-columns: auto;
-	
-}
 
-#listings-box {
-	width: 100%;
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
 }
 
 
 .listing {
-	width: 400px;
+	max-width: 1000px;
 	background-color: #ffff99;
 	border-radius: 20px;
-	padding-bottom: 10px;
+	padding: 10px 30px;
 	margin: 26px auto;
 	background-image: linear-gradient(0deg, #452c16 46.77%, #291504 46.77%, #291504 50%, #452c16 50%, #452c16 96.77%, #291504 96.77%, #291504 100%);
 	background-size: 62.00px 62.00px;
 }
 
 .listing-name {
-	width: 360px;
-	font-size: 25px;
+	max-width: 1000px;
+	font-size: 30px;
 	font-weight: 1000;
 	color: #DEBA50;
 	text-align: left;
+	display: block;
+	margin: 10px auto;
 }
 
 .listing-display {
-	width: 350px;
-	height: 45px;
+	max-width: 1000px;
 	border: solid 2px #DEBA50;
 	background-color: #FFFFFF;
 	color: #000000;
 	direction: rtl;
     unicode-bidi: bidi-override;	
-	text-align: right;
-	font-size: 28px;
-	padding: 10px;
+	text-align: center;
+	font-size: 38px;
+	padding: 16px 10px;
 	border-radius: 20px;
 	overflow: hidden;
+	display: block;
+	margin: 10px auto;
 	
 }
 
 .listing-file-name {
-	width: 360px;
+	max-width: 1000px;
 	font-size: 16px;
 	font-weight: 600;
 	color: #DEBA50;
 	text-align: left;
+	display: block;
+	margin: 0px;
+	margin-top: 20px;
+	transform: translate(0px, 15px);
 }
 
 .horizontal {
-	display: flex;
-    align-items: center;
+	max-width: 1000px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin: 0px auto;
+	
 }
 
 .listing-size {
@@ -398,12 +399,13 @@ saaiqSAS:hover {
 	font-weight: 600;
 	color: #DEBA50;
 	text-align: left;
-	padding-left: 20px;
-	flex-grow: 1;
+	float: left;
+	transform: translate(0px, 15px);
+	
 }
 
 .listing-download {
-	width: 150px;
+	width: 200px;
 	height: 40px;
 	background-color: #452c16;
 	border: solid 2px #DEBA50;
@@ -412,7 +414,6 @@ saaiqSAS:hover {
 	text-align: center;
 	float: right;
 	padding-bottom: 10px;
-	margin-right: 20px;
 	border-radius: 20px;
 	-webkit-transition: all 0.2s ease;
     	-moz-transition: all 0.2s ease;
@@ -425,6 +426,21 @@ saaiqSAS:hover {
 .listing-download:hover {
 	background-color: #DEBA50;
 	color: #452c16;
+}
+
+
+@media screen and (max-width: 550px) {
+	.listing-display {
+		font-size: 24px;	
+	}
+	
+	.listing-name {
+		font-size: 26px;
+	}
+	
+	.listing-download {
+		width: 150px;
+	}
 }
 
 #noti {
