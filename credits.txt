@@ -4,7 +4,16 @@
 
 [CURRENT NUMBER OF FONT LISTINGS : 189]
 
-DEVELOPED AND MAINTAINED BY 
+The fonts listed in this repository are the intellectual property of individual 
+developers and groups who have dedicated their time and effort to creating them.
+These fonts are strictly for personal use only, and any commercial use, 
+redistribution, or modification is prohibited unless explicitly stated otherwise
+by the font creator. This site is simply a compilation of these fonts for easy
+access, and neither the developers nor contributors will be held responsible 
+for any misuse of the fonts. By downloading or using these fonts, you agree to
+use them solely for personal, non-commercial purposes.
+
+PROJECT DEVELOPED AND MAINTAINED BY 
 > saaiqSAS (saaiqsas.github.io)
 
 FONTS SOURCES
