@@ -2,7 +2,7 @@
 |             CREDITS             |
 +---------------------------------+
 
-[CURRENT NUMBER OF FONT LISTINGS : 181]
+[CURRENT NUMBER OF FONT LISTINGS : 189]
 
 DEVELOPED AND MAINTAINED BY 
 > saaiqSAS (saaiqsas.github.io)
@@ -14,13 +14,17 @@ FONTS SOURCES
 > https://fonts.google.com
 > https://www.hassanhameed.com
 > https://dhivehifont.com
+> https://www.akurutype.com/
 
 SPECIAL THANKS TO
 > Developers and content providers of www.dhivehi.mv
 > Developers and content providers of thaana.com
 > Developers and content providers of www.hassanhameed.com
 > Developers and content providers of dhivehifont.com
+> Developers and content providers of www.akurutype.com
 
 LICENSES
+The fonts in this repository are licensed under the Open Fonts License (OFL). 
+The copyrights are reserved by the respective creator of each font.
 > SIL Open Font License (OFL) (https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 

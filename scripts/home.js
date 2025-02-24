@@ -6,6 +6,62 @@ var fontsListing = [
 
 var fontsListing = [
 {
+name: "Maumoon",
+file_name: "Maumoon.otf",
+web_file_location: "fonts/Maumoon.otf",
+download_file_location: "fonts/Maumoon.otf",
+download_font_size: "23 KB"
+},
+{
+name: "AK Liyan",
+file_name: "AK Liyan.ttf",
+web_file_location: "fonts/AK Liyan.ttf",
+download_file_location: "fonts/AK Liyan.ttf",
+download_font_size: "48 KB"
+},
+{
+name: "AK Liyan Bold",
+file_name: "AK Liyan Bold.ttf",
+web_file_location: "fonts/AK Liyan Bold.ttf",
+download_file_location: "fonts/AK Liyan Bold.ttf",
+download_font_size: "49 KB"
+},
+{
+name: "KD Akuru",
+file_name: "KD Akuru.ttf",
+web_file_location: "fonts/KD Akuru.ttf",
+download_file_location: "fonts/KD Akuru.ttf",
+download_font_size: "49 KB"
+},
+{
+name: "AK Rasmee",
+file_name: "AK Rasmee.ttf",
+web_file_location: "fonts/AK Rasmee.ttf",
+download_file_location: "fonts/AK Rasmee.ttf",
+download_font_size: "58 KB"
+},
+{
+name: "AKVeli-Regular",
+file_name: "AKVeli-Regular.otf",
+web_file_location: "fonts/AKVeli-Regular.otf",
+download_file_location: "fonts/AKVeli-Regular.otf",
+download_font_size: "53 KB"
+},
+{
+name: "AKVeli-Light",
+file_name: "AKVeli-Light.otf",
+web_file_location: "fonts/AKVeli-Light.otf",
+download_file_location: "fonts/AKVeli-Light.otf",
+download_font_size: "676 KB"
+},
+{
+name: "AKVeli-Bold",
+file_name: "AKVeli-Bold.otf",
+web_file_location: "fonts/AKVeli-Bold.otf",
+download_file_location: "fonts/AKVeli-Bold.otf",
+download_font_size: "55 KB"
+},
+{
 name: "aammufkF",
 file_name: "aammufkF.ttf",
 web_file_location: "fonts/aammufkF.ttf",
