@@ -2,7 +2,7 @@
 |             CREDITS             |
 +---------------------------------+
 
-[CURRENT NUMBER OF FONT LISTINGS : 189]
+[CURRENT NUMBER OF FONT LISTINGS : 212]
 
 The fonts listed in this repository are the intellectual property of individual 
 developers and groups who have dedicated their time and effort to creating them.
@@ -14,7 +14,10 @@ for any misuse of the fonts. By downloading or using these fonts, you agree to
 use them solely for personal, non-commercial purposes.
 
 PROJECT DEVELOPED AND MAINTAINED BY 
-> saaiqSAS (saaiqsas.github.io)
+> saaiqSAS (https://saaiqsas.github.io)
+
+PROJECT CONTRIBUTERS
+> Abdulla Saeed
 
 FONTS SOURCES
 > https://thaana.com
@@ -24,6 +27,7 @@ FONTS SOURCES
 > https://www.hassanhameed.com
 > https://dhivehifont.com
 > https://www.akurutype.com/
+> https://thatmaldivesblog.wordpress.com/
 
 SPECIAL THANKS TO
 > Developers and content providers of www.dhivehi.mv
@@ -31,9 +35,11 @@ SPECIAL THANKS TO
 > Developers and content providers of www.hassanhameed.com
 > Developers and content providers of dhivehifont.com
 > Developers and content providers of www.akurutype.com
+> Developers and content providers of thatmaldivesblog.wordpress.com
 
 LICENSES
-The fonts in this repository are licensed under the Open Fonts License (OFL). 
+The fonts in this repository are licensed under the Licenses below. 
 The copyrights are reserved by the respective creator of each font.
 > SIL Open Font License (OFL) (https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+> Creative Commons Attribution No Derivatives license (http://creativecommons.org/licenses/by-nd/3.0/)
 
