@@ -17,7 +17,7 @@ PROJECT DEVELOPED AND MAINTAINED BY
 > saaiqSAS (https://saaiqsas.github.io)
 
 PROJECT CONTRIBUTERS
-> Abdulla Saeed
+> Abdulla Saeed (provided a font source)
 
 FONTS SOURCES
 > https://thaana.com

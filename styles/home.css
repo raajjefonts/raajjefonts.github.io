@@ -2,7 +2,7 @@
 body {
 	background-color: #296D7A;
 	background: rgb(1,55,65);
-    background: linear-gradient(0deg, rgba(1,55,65,1) 0%, rgba(41,109,122,1) 95%);
+    background: linear-gradient(0deg, rgba(10,30,40,1) 10%, rgba(1,55,65,1) 70%, rgba(41,109,122,1) 95%);
 	color: #FFFFFF;
 	font-family: sans-serif;
 	opacity: 0;
@@ -376,6 +376,7 @@ saaiqSAS:hover {
 
 .listing-file-name {
 	max-width: 1000px;
+	min-width: 200px;
 	font-size: 16px;
 	font-weight: 600;
 	color: #DEBA50;
@@ -428,19 +429,66 @@ saaiqSAS:hover {
 	color: #452c16;
 }
 
+.ad_image {
+    display: block;
+    max-width: 90%;
+    width: auto; 
+    height: auto; 
+	
+	margin: 0px auto;
+	border-radius: 20px;
+	box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.75);
+	
+	-webkit-transition: all 0.2s ease;
+    	-moz-transition: all 0.2s ease;
+    	-o-transition: all 0.2s ease;
+    	-ms-transition: all 0.2s ease;
+    	transition: all 0.2s ease;
+}
 
-@media screen and (max-width: 550px) {
+.ad_image:hover {
+    display: block;
+    width: auto; 
+    height: auto; 
+	
+	margin: 0px auto;
+	border-radius: 20px;
+	box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.9);
+	-webkit-box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.9);
+	-moz-box-shadow: 1px 16px 29px -4px rgba(0,0,0,0.9);
+	
+	transform: scale(1.02, 1.02);
+}
+
+
+@media screen and (max-width: 600px) {
+	
+	.listing {
+		padding: 10px 15px;
+	}
+
 	.listing-display {
 		font-size: 24px;	
 	}
 	
 	.listing-name {
-		font-size: 26px;
+		font-size: 24px;
 	}
 	
 	.listing-download {
 		width: 150px;
 	}
+	
+	.listing-file-name, .listing-size {
+		font-size: 13px;
+	}
+	
+	.ad_image {
+		max-width: 100%;
+	}
+	
 }
 
 #noti {
