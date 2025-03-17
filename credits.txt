@@ -2,7 +2,7 @@
 |             CREDITS             |
 +---------------------------------+
 
-[CURRENT NUMBER OF FONT LISTINGS : 211]
+[CURRENT NUMBER OF FONT LISTINGS : 205]
 
 The fonts listed in this repository are the intellectual property of individual 
 developers and groups who have dedicated their time and effort to creating them.
@@ -26,7 +26,6 @@ FONTS SOURCES
 > https://fonts.google.com
 > https://www.hassanhameed.com
 > https://dhivehifont.com
-> https://www.akurutype.com/
 > https://thatmaldivesblog.wordpress.com/
 
 SPECIAL THANKS TO
@@ -34,7 +33,6 @@ SPECIAL THANKS TO
 > Developers and content providers of thaana.com
 > Developers and content providers of www.hassanhameed.com
 > Developers and content providers of dhivehifont.com
-> Developers and content providers of www.akurutype.com
 > Developers and content providers of thatmaldivesblog.wordpress.com
 
 LICENSES
