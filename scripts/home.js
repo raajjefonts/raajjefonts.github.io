@@ -496,20 +496,6 @@ download_file_location: "fonts/kanafala.otf",
 download_font_size: "11 KB"
 },
 {
-name: "KD Akuru",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/KD Akuru.ttf",
-download_file_location: "https://admin.akurutype.com/api/fonts/kd-akuru/download",
-download_font_size: "30 KB"
-},
-{
-name: "Killaa",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/Killaa.ttf",
-download_file_location: "https://admin.akurutype.com/api/fonts/killaa/download",
-download_font_size: "11.5 KB"
-},
-{
 name: "Kolhu Black",
 file_name: "Kolhu-Black.ttf",
 web_file_location: "fonts/Kolhu-Black.ttf",
@@ -580,13 +566,6 @@ download_file_location: "fonts/LCDThaana-Regular.ttf",
 download_font_size: "58 KB"
 },
 {
-name: "Liyan",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/AK Liyan.ttf",
-download_file_location: "https://admin.akurutype.com/api/fonts/liyan/download",
-download_font_size: "48 KB"
-},
-{
 name: "maliku",
 file_name: "maliku.ttf",
 web_file_location: "fonts/maliku.ttf",
@@ -599,13 +578,6 @@ file_name: "MasnooeeMono-Regular.ttf",
 web_file_location: "fonts/MasnooeeMono-Regular.ttf",
 download_file_location: "fonts/MasnooeeMono-Regular.ttf",
 download_font_size: "108 KB"
-},
-{
-name: "Maumoon",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/Maumoon.otf",
-download_file_location: "https://admin.akurutype.com/api/fonts/maumoon/download",
-download_font_size: "24 KB"
 },
 {
 name: "midhilibold",
@@ -1301,13 +1273,6 @@ download_file_location: "fonts/Randhoo_reg_hinted.ttf",
 download_font_size: "71 KB"
 },
 {
-name: "Rasmee",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/AK Rasmee.ttf",
-download_file_location: "https://admin.akurutype.com/api/fonts/rasmee/download",
-download_font_size: "35 KB"
-},
-{
 name: "Samee Avas Thaana",
 file_name: "Samee_Avas_Thaana.ttf",
 web_file_location: "fonts/Samee_Avas_Thaana.ttf",
@@ -1397,13 +1362,6 @@ file_name: "THIKI.ttf",
 web_file_location: "fonts/THIKI.ttf",
 download_file_location: "fonts/THIKI.ttf",
 download_font_size: "61 KB"
-},
-{
-name: "Veli",
-file_name: "(.zip from akurutype.com)",
-web_file_location: "fonts/AKVeli-Regular.otf",
-download_file_location: "https://admin.akurutype.com/api/fonts/veli/download",
-download_font_size: "53 KB"
 },
 {
 name: "Viethaana Bold",
