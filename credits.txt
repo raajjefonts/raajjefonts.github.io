@@ -2,7 +2,7 @@
 |             CREDITS             |
 +---------------------------------+
 
-[CURRENT NUMBER OF FONT LISTINGS : 212]
+[CURRENT NUMBER OF FONT LISTINGS : 211]
 
 The fonts listed in this repository are the intellectual property of individual 
 developers and groups who have dedicated their time and effort to creating them.
