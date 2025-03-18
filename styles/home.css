@@ -30,7 +30,7 @@ main {
 	position: absolute;
 	float: top;
 	z-index: -1;
-	height: 700px;
+	height: 800px;
 	width:100%;
 	overflow: hidden;
 	transform: translate(-8px,-10px);
@@ -49,7 +49,7 @@ main {
 		position: absolute;
 		float: top;
 		z-index: -1;
-		height: 800px;
+		height: 1000px;
 		width:100%;
 		overflow: hidden;
 		transform: translate(-8px,-10px);
@@ -60,6 +60,11 @@ main {
 .footer {
     width: 100%;
 	text-align: right;
+	background-color: #202020;
+}
+
+.footer p {
+    max-width: 80%;
 }
 
 a {
@@ -199,9 +204,7 @@ p {
 	}
 }
 
-
-
-#credits {
+#nav_sources {
 	width: 100px;
 	color: #296D7A;
 	background-color: #fbf8f3;
@@ -219,7 +222,7 @@ p {
 	float: right;
 }
 
-#credits:hover {
+#nav_sources:hover {
 	color: #fbf8f3;
 	background-color: #296D7A;
 }
@@ -247,20 +250,54 @@ p {
 	background-color: #296D7A;
 }
 
-#test-text-box {
-	position: -webkit-sticky;
+.blue_border_box{
+	color: #296D7A;
+	padding: 20px;
+	border-radius: 25px;
+	border: solid 2px #296D7A;
+	font-size: 20px;
+	margin-top: 10px;
+	line-height: 20px;
+	max-width: 500px;
+}
+
+keys {
+	color: #296D7A;
+	font-size: 24px;
+	width: 10px;
+	border: solid 1px #296D7A;
+	border-radius: 4px;
+	padding-left:6px;
+	padding-right:6px;
+	font-family: 'Courier New', monospace;
+}
+
+#options_box {
+	/*position: -webkit-sticky;
 	position: sticky;
 	top: 8px;
 	opacity: 0.9;
+	*/
+	
+	max-width: 800px;
+	color: #296D7A;
+	background-color: #FFFFFF;
+	padding: 5px;
+	border-radius: 25px;
+	margin-top: 350px;
+	padding-bottom: 15px;
+	box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
+	-webkit-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
 }
 
-#test {
+
+#test_text {
 	width: 350px;
 	height: 42px;
-	border: dashed 2px #296D7A;
+	border: solid 2px #296D7A;
 	color: #296D7A;
 	font-family: "Faruma";
-	background-color: #fbf8f3;
 	border-radius: 50px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -275,15 +312,15 @@ p {
 	margin-bottom: 20px;
 }
 
-#test:focus {
+#test_text:focus {
 	outline: none !important;
 }
 	
-@media screen and (min-width: 500px) {
-	#test {
-		width: 400px;
+@media screen and (min-width: 700px) {
+	#test_text {
+		width: 550px;
 	}
-	#test:focus {
+	#test_text:focus {
 		outline: none !important;
 		transform: scale(1.1);
 	}
@@ -332,41 +369,28 @@ saaiqSAS:hover {
 	font-style: italic;
 }
 
-#listings-box {
-
-}
-
 
 .listing {
 	max-width: 1000px;
 	background-color: #ffff99;
+	border: solid 2px #DEBA50;
 	border-radius: 20px;
-	padding: 10px 30px;
+	padding: 10px 10px;
 	margin: 26px auto;
 	background-image: linear-gradient(0deg, #452c16 46.77%, #291504 46.77%, #291504 50%, #452c16 50%, #452c16 96.77%, #291504 96.77%, #291504 100%);
 	background-size: 62.00px 62.00px;
 }
 
-.listing-name {
+.font_display {
 	max-width: 1000px;
-	font-size: 30px;
-	font-weight: 1000;
-	color: #DEBA50;
-	text-align: left;
-	display: block;
-	margin: 10px auto;
-}
-
-.listing-display {
-	max-width: 1000px;
-	border: solid 2px #DEBA50;
-	background-color: #FFFFFF;
-	color: #000000;
+	border: none;
+	background-color: #000000;
+	color: #ffffff;
 	direction: rtl;
     unicode-bidi: bidi-override;	
 	text-align: center;
 	font-size: 38px;
-	padding: 16px 10px;
+	padding: 30px 10px;
 	border-radius: 20px;
 	overflow: hidden;
 	display: block;
@@ -374,7 +398,7 @@ saaiqSAS:hover {
 	
 }
 
-.listing-file-name {
+.font_name {
 	max-width: 1000px;
 	min-width: 200px;
 	font-size: 16px;
@@ -395,7 +419,7 @@ saaiqSAS:hover {
 	
 }
 
-.listing-size {
+.font_source {
 	font-size: 16px;
 	font-weight: 600;
 	color: #DEBA50;
@@ -405,7 +429,7 @@ saaiqSAS:hover {
 	
 }
 
-.listing-download {
+.font_download {
 	width: 200px;
 	height: 40px;
 	background-color: #452c16;
@@ -424,7 +448,7 @@ saaiqSAS:hover {
 	
 }
 
-.listing-download:hover {
+.font_download:hover {
 	background-color: #DEBA50;
 	color: #452c16;
 }
@@ -469,19 +493,15 @@ saaiqSAS:hover {
 		padding: 10px 15px;
 	}
 
-	.listing-display {
+	.font_display {
 		font-size: 24px;	
 	}
 	
-	.listing-name {
-		font-size: 24px;
-	}
-	
-	.listing-download {
+	.font_download {
 		width: 150px;
 	}
 	
-	.listing-file-name, .listing-size {
+	.font_source, .font_name {
 		font-size: 13px;
 	}
 	
@@ -489,51 +509,4 @@ saaiqSAS:hover {
 		max-width: 100%;
 	}
 	
-}
-
-#noti {
-	color: #296D7A;
-	background-color: #FFFFFF;
-	padding: 20px;
-	border-radius: 25px;
-	font-size: 25px;
-	margin-top: 300px;
-	box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
-	-webkit-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
-	-moz-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
-	line-height: 45px;
-}
-
-highlight {
-	color: #296D7A;
-	background-color: #fbf8f3;
-	border: solid 2px #296D7A;
-	font-size: 28px;
-	border-radius: 25px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
-	-webkit-transition: all 0.2s ease;
-    	-moz-transition: all 0.2s ease;
-    	-o-transition: all 0.2s ease;
-    	-ms-transition: all 0.2s ease;
-    	transition: all 0.2s ease;
-
-}
-
-highlight:hover {
-	color: #fbf8f3;
-	background-color: #296D7A;
-}
-
-keys {
-	color: #296D7A;
-	font-size: 28px;
-	width: 10px;
-	border: solid 1px #296D7A;
-	border-radius: 4px;
-	padding-left:6px;
-	padding-right:6px;
-	font-family: 'Courier New', monospace;
 }

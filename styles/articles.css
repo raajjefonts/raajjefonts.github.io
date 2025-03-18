@@ -62,7 +62,13 @@ main {
 .footer {
     width: 100%;
 	text-align: right;
+	background-color: #202020;
 }
+
+.footer p {
+    max-width: 80%;
+}
+
 
 a {
 	text-decoration: none;
@@ -203,7 +209,7 @@ p {
 
 
 
-#credits {
+#nav_sources {
 	width: 100px;
 	color: #296D7A;
 	background-color: #fbf8f3;
@@ -221,7 +227,7 @@ p {
 	float: right;
 }
 
-#credits:hover {
+#nav_sources:hover {
 	color: #fbf8f3;
 	background-color: #296D7A;
 }

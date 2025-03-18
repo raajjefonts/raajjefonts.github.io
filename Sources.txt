@@ -1,0 +1,194 @@
+[CURRENT NUMBER OF FONT LISTINGS : 206]
+
+The fonts listed in this repository are the intellectual property of their respective developers 
+and creators, who have dedicated their time and effort to designing them. For licensing information
+and to verify if commercial use is allowed, please refer to the source website for each font. 
+This site serves as a compilation for easy access, and neither the developers nor contributors 
+are responsible for any misuse of the fonts. By downloading or using these fonts, you agree to 
+adhere to the licensing terms provided by the original font creators.
+
+PROJECT DEVELOPED AND MAINTAINED BY 
+> saaiqSAS (https://saaiqsas.github.io)
+
+-------------------------------------------------------------------------------------------------------
+FONT LINKS TO SOURCE - Compiled by saaiqSAS
+
+www.dhivehi.mv
+==============
+(All fonts on same page, Thus direct download link provided)
+
+DAM_Hiyani			https://www.dhivehi.mv/fonts/data/df/DAM_Hiyani.otf
+DAM_Kalhi			https://www.dhivehi.mv/fonts/data/df/DAM_Kalhi.otf
+DAM_Kathivalhi			https://www.dhivehi.mv/fonts/data/df/DAM_Kathivalhi.otf
+DAM_Madheeh			https://www.dhivehi.mv/fonts/data/df/DAM_Madheeh.otf
+Dhivehi				https://www.dhivehi.mv/fonts/data/df/Dhivehi.ttf
+Faruma				https://www.dhivehi.mv/fonts/data/df/Faruma.ttf
+Kanafala Regular		https://www.dhivehi.mv/fonts/data/df/Kanafala.ttf
+MV Prathama Dva Regular		https://www.dhivehi.mv/fonts/data/df/MV%20Prathama%20Dva.ttf
+MV Prathama Ek Regular		https://www.dhivehi.mv/fonts/data/df/MV%20Prathama%20Ek.ttf
+MV Prathama Tin Regular		https://www.dhivehi.mv/fonts/data/df/MV%20Prathama%20Tin.ttf
+MV Waheed			https://www.dhivehi.mv/fonts/data/df/MVWaheed.otf
+MV Boli				https://www.dhivehi.mv/fonts/data/df/MV_Boli.otf
+MV Faseyha			https://www.dhivehi.mv/fonts/data/df/MV_Faseyha.otf
+MV Waheed			https://www.dhivehi.mv/fonts/data/df/MV_Waheed.otf
+Mv Amaan XP			https://www.dhivehi.mv/fonts/data/df/Mv_Amaan_XP.otf
+Mv Eamaan XP			https://www.dhivehi.mv/fonts/data/df/Mv_Eamaan_XP.otf
+Mv Elaaf Lite			https://www.dhivehi.mv/fonts/data/df/Mv_Elaaf_Lite.otf
+Mv Elaaf Normal			https://www.dhivehi.mv/fonts/data/df/Mv_Elaaf_Normal.otf
+Mv Galan Normal			https://www.dhivehi.mv/fonts/data/df/Mv_Galan_Normal.otf
+Mv GroupX Avas Akuru		https://www.dhivehi.mv/fonts/data/df/Mv_GroupX_Avas_Akuru.otf
+Mv Iyyu Formal			https://www.dhivehi.mv/fonts/data/df/Mv_Iyyu_Formal.otf
+Mv Iyyu Nala			https://www.dhivehi.mv/fonts/data/df/Mv_Iyyu_Nala.otf
+Mv Iyyu Normal			https://www.dhivehi.mv/fonts/data/df/Mv_Iyyu_Normal.otf
+Mv Lady Luck			https://www.dhivehi.mv/fonts/data/df/Mv_Lady_Luck.otf
+Mv MAG Round Bold		https://www.dhivehi.mv/fonts/data/df/Mv_MAG_Round_Bold.otf
+Mv MAG Round HBold		https://www.dhivehi.mv/fonts/data/df/Mv_MAG_Round_HBold.otf
+Mv MAG Round XBold		https://www.dhivehi.mv/fonts/data/df/Mv_MAG_Round_XBold.otf
+Mv Sehga Fubaru Fancy		https://www.dhivehi.mv/fonts/data/df/Mv_Sehga_Fubaru_Fancy.otf
+Mv Sehga Old			https://www.dhivehi.mv/fonts/data/df/Mv_Sehga_Old.otf
+MV Midhili Bold			https://www.dhivehi.mv/fonts/data/df/midhilibold.ttf
+MV Typewriter			https://www.dhivehi.mv/fonts/data/df/mvtyper.ttf
+A_Nishan			https://www.dhivehi.mv/fonts/data/ef/A_Nishan.ttf
+Athu Casual			https://www.dhivehi.mv/fonts/data/ef/Athu_Casual.otf
+Avas Thaana			https://www.dhivehi.mv/fonts/data/ef/Avas_Thaana.otf
+BODUKURU Light			https://www.dhivehi.mv/fonts/data/ef/BODUKURU_Light.otf
+Dhives				https://www.dhivehi.mv/fonts/data/ef/Dhives.ttf
+Faiy Light			https://www.dhivehi.mv/fonts/data/ef/Faiy_Light.otf
+Nasr Light			https://www.dhivehi.mv/fonts/data/ef/Nasr_Light.otf
+Samee Avas Thaana		https://www.dhivehi.mv/fonts/data/ef/Samee_Avas_Thaana.ttf
+A_Haleem Bolhu Bold		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Bolhu__Bold.otf
+A_Haleem KB			https://www.dhivehi.mv/fonts/data/et/A_Haleem_KB.otf
+A_Haleem Mathi Bold		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Mathi_Bold.otf
+A_Haleem Raaveri		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Raaveri.otf
+A_Haleem Riveli			https://www.dhivehi.mv/fonts/data/et/A_Haleem_Riveli.otf
+A_Haleem SH Bold Italic		https://www.dhivehi.mv/fonts/data/et/A_Haleem_SH_Bold_Italic.otf
+A_Haleem Thangi Bold		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Thangi_Bold.otf
+A_Haleem Thiki Bold		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Thiki_Bold.otf
+A_Haleem Uivashaa		https://www.dhivehi.mv/fonts/data/et/A_Haleem_Uivashaa.otf
+A_Haleem Kirudhooni		https://www.dhivehi.mv/fonts/data/et/A_Haleem__Kirudhooni.otf
+A_Haleem faseyha		https://www.dhivehi.mv/fonts/data/et/A_Haleem_faseyha.otf
+A_Ilham				https://www.dhivehi.mv/fonts/data/et/A_Ilham.TTF
+A_Kaani				https://www.dhivehi.mv/fonts/data/et/A_Kaani.otf
+A_Koagannu			https://www.dhivehi.mv/fonts/data/et/A_Koagannu.TTF
+A_Lakudi			https://www.dhivehi.mv/fonts/data/et/A_Lakudi.otf
+A_Lakudi College		https://www.dhivehi.mv/fonts/data/et/A_Lakudi_College.otf	
+A_Midhili			https://www.dhivehi.mv/fonts/data/et/A_Midhili.otf
+A_Uni				https://www.dhivehi.mv/fonts/data/et/A_Uni.otf
+A_Waheed			https://www.dhivehi.mv/fonts/data/et/A_Waheed.otf
+A_Waheed College		https://www.dhivehi.mv/fonts/data/et/A_Waheed_College.otf
+A_Faseyha			https://www.dhivehi.mv/fonts/data/et/faseyha.otf
+A_Utheem			https://www.dhivehi.mv/fonts/data/et/utheem.otf
+
+
+thaana.com
+==========
+
+Bolhu				https://thaana.com/bolhu/
+Faagathi Dehli			https://thaana.com/faagathi-dheli/
+Faagathi Neon			https://thaana.com/faagathi-neon/
+Faaru Punk			https://thaana.com/faaru-punk/
+Fanara				https://thaana.com/fanara/
+Fanara Golhi			https://thaana.com/fanara-golhi/
+Fiyuzu				https://thaana.com/fiyuzu/
+Gurafiku			https://thaana.com/gurafiku/
+Haluvidhaa			https://thaana.com/haluvidhaa/
+Hawwa				https://thaana.com/hawwa/
+Kolhu				https://thaana.com/kolhu/
+LCD Thaana			https://thaana.com/lcd-thaana/
+Masnooee Mono			https://thaana.com/masnooee-mono/
+Motaru Dhigu			https://thaana.com/motaru-dhigu/
+Motaru Square 			https://thaana.com/motaru-square/
+Sangu Suruhee			https://thaana.com/sangu-suruhee/
+Theras				https://thaana.com/theras/
+Viethaana			https://thaana.com/viethaana/
+Zaana Thedhu			https://thaana.com/zaana-thedhu/
+
+
+thatmaldivesblog.wordpress.com
+===============================
+
+MV Salhi Eka  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
+MV Salhi  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
+MV Osho 			https://thatmaldivesblog.wordpress.com/2020/07/12/mv-osho/
+MV Runa / MV Runa Us  		https://thatmaldivesblog.wordpress.com/2020/05/10/mv-runa-mv-runa-us/
+MV Golhifoshi 			https://thatmaldivesblog.wordpress.com/2020/04/18/mv-golhifoshi/
+MV Roma				https://thatmaldivesblog.wordpress.com/2020/01/11/mv-roma/
+MV Vashalo			https://thatmaldivesblog.wordpress.com/2019/06/23/mv-vashalo/
+MV Dubai 			https://thatmaldivesblog.wordpress.com/2019/02/08/mv-dubai/
+MV Thavaa			https://thatmaldivesblog.wordpress.com/2018/12/08/mv-thavaa/
+MV Hulhumale			https://thatmaldivesblog.wordpress.com/2018/08/26/mv-hulhumale/
+MV Beys				https://thatmaldivesblog.wordpress.com/2018/07/13/mv-beys/
+MV Ashaahi			https://thatmaldivesblog.wordpress.com/2018/01/28/mv-ashaahi/
+MV Akson			https://thatmaldivesblog.wordpress.com/2017/12/17/mv-akson/
+MV Lhaiy			https://thatmaldivesblog.wordpress.com/2017/11/01/mv-lhaiy/
+MV Sarukitu			https://thatmaldivesblog.wordpress.com/2017/04/04/mv-sarukitu/
+MV Sishisozo			https://thatmaldivesblog.wordpress.com/2017/01/15/mv-sishisozo/
+MV Thaanarabi			https://thatmaldivesblog.wordpress.com/2016/06/08/mv_thaanarabi/
+MV Kanafala			https://thatmaldivesblog.wordpress.com/2016/04/09/new-font/
+MV Prathama Tin			https://thatmaldivesblog.wordpress.com/2016/04/03/first-font/
+
+
+dhivehifont.com
+===============
+
+Mv Gaa Lhohi 			https://dhivehifont.com/2022/04/28/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8e%de%a7-%de%85%de%ae%de%80%de%a8/
+mv izyan athuliyun light	https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%a6%de%8c%de%aa%de%8d%de%a8%de%94%de%aa%de%82%de%b0-%de%8d%de%a6%de%87%de%a8%de%93%de%b0/ 
+mv izyan athuliyun 		https://dhivehifont.com/2021/12/30/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%a6%de%8c%de%aa%de%8d%de%a8%de%94%de%aa%de%82%de%b0-2/
+Mv karudhas Outline 		https://dhivehifont.com/2022/04/28/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%86%de%a6%de%83%de%aa%de%8b%de%a7%de%90%de%b0-%de%87%de%a6%de%87%de%aa%de%93%de%b0-%de%8d%de%a6%de%87%de%a8%de%82%de%b0/
+Mv Karudhas 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%86%de%a6%de%83%de%aa%de%8b%de%a7%de%90%de%b0/
+Mv-azheel-rasmee 		https://dhivehifont.com/2024/06/15/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%87%de%a6%de%92%de%b0%de%80%de%a9%de%8d%de%b0-%de%83%de%a6%de%90%de%b0%de%89%de%a9/
+Mv-Azheel 			https://dhivehifont.com/2023/11/14/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%87%de%a6%de%92%de%b0%de%80%de%a9%de%8d%de%b0/
+Mv-Izyan-Lhohi 			https://dhivehifont.com/2024/08/13/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%87%de%a8%de%92%de%b0%de%94%de%a6%de%82%de%b0-%de%85%de%ae%de%80%de%a8/
+Mv-Izyan-Reethi 		https://dhivehifont.com/2024/01/31/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%87%de%a8%de%92%de%b0%de%94%de%a6%de%82%de%b0-%de%83%de%a9%de%8c%de%a8/
+mv-izyan-suruhee 		https://dhivehifont.com/2022/07/25/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%87%de%a8%de%92%de%b0%de%94/
+Mv-kashi 			https://dhivehifont.com/2023/11/18/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%86%de%a6%de%81%de%a8/
+Mv-Mohamed-Ali-Final 		https://dhivehifont.com/2023/07/24/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%90%de%aa%de%83%de%aa%de%9a%de%a9-2/
+Mv-Nerumagu 			https://dhivehifont.com/2023/04/20/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%82%de%ac%de%83%de%aa%de%89%de%a6%de%8e%de%aa/
+Mv-suruhee 			https://dhivehifont.com/2023/04/20/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%90%de%aa%de%83%de%aa%de%9a%de%a9/
+Mv-Thakurufaanu 		https://dhivehifont.com/2022/09/26/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8c%de%a6%de%86%de%aa%de%83%de%aa%de%8a%de%a7%de%82%de%aa/
+Mv Alram 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a6%de%8d%de%b0%de%83%de%a6%de%89%de%b0/
+Mv Dhelifihi 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%8b%de%ac%de%8d%de%a8-%de%8a%de%a8%de%80%de%a8/
+Mv Edhuru 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%ac%de%8b%de%aa%de%83%de%aa/
+Mv fathimath 			https://dhivehifont.com/2022/05/16/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8a%de%a7%de%8c%de%a8%de%89%de%a6%de%8c%de%aa/
+Mv Izyan boduakuru 		https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%84%de%ae%de%91%de%aa%de%87%de%a6%de%86%de%aa%de%83%de%aa/
+Mv Izyan boduakuru 3D 		https://dhivehifont.com/2022/10/31/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%84%de%ae%de%91%de%aa%de%87%de%a6%de%86%de%aa%de%83%de%aa-3%de%91%de%a9/
+Mv Izyan Light 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%ac%de%86%de%b0%de%90%de%b0%de%93%de%b0%de%83%de%a7-%de%8d%de%a6%de%87%de%a8%de%93%de%b0/
+Mv Izyan Liyun 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%8d%de%a8%de%94%de%aa%de%82%de%b0/
+Mv Izyan Normal 		https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%82%de%af%de%89%de%a6%de%8d%de%b0/
+Mv Izyan regular 		https://dhivehifont.com/2022/04/30/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%83%de%ac%de%8e%de%a8%de%87%de%aa%de%8d%de%a7%de%83/
+Mv Izyan Thaana 		https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%8c%de%a7%de%82%de%a6/
+Mv Izyan Thin 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%8c%de%a8%de%82%de%b0/
+MV izy Pro 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%a6%de%8c%de%aa%de%8d%de%a8%de%94%de%aa%de%82%de%b0/
+Mv lhohi 			https://dhivehifont.com/2022/10/27/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%85%de%ae%de%80%de%a8-%de%84%de%af%de%8d%de%b0%de%91%de%b0/
+Mv Maryam 			https://dhivehifont.com/2022/05/16/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%89%de%a6%de%83%de%b0%de%94%de%a6%de%89%de%b0/
+Mv Neviraheem 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%82%de%ac%de%88%de%a8-%de%83%de%a6%de%80%de%a9%de%89%de%b0/
+THIKI 				https://dhivehifont.com/2022/05/08/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8c%de%a8%de%86%de%a8-%de%87%de%a6%de%86%de%aa%de%83%de%aa/
+
+
+www.hassanhameed.com
+====================
+
+MV Typewriter			https://www.hassanhameed.com/?page_id=154
+Typewriter Semibold		https://www.hassanhameed.com/thaana-fonts/mv-typewriter-semibold/
+MV Vaadhoo			https://www.hassanhameed.com/thaana-fonts/mv-vaadhoo-new-thaana-font/
+MV Ilham			https://www.hassanhameed.com/?page_id=5172
+MV Utheemu			https://www.hassanhameed.com/thaana-fonts/mv-utheemu/
+MV A Waheed			https://www.hassanhameed.com/thaana-fonts/a_waheed/
+MV AmmuFK			https://www.hassanhameed.com/thaana-fonts/mv-aammufk/
+MV Randhoo			https://www.hassanhameed.com/thaana-fonts/thaana-font-mv-randhoo/
+MV Kelaa			https://www.hassanhameed.com/thaana-fonts/mv-kelaa-thaana-font-in-regular-and-semi-bold-sizes/
+MV Faseyha			https://www.hassanhameed.com/thaana-fonts/mv-faseyha/
+Thaana dot matrix font		https://www.hassanhameed.com/thaana-fonts/making-a-thaana-dot-matrix-font/
+MV Maliku			https://www.hassanhameed.com/?page_id=269
+MV Koagannu			https://www.hassanhameed.com/?page_id=1691
+MV Raadhavalhi			https://www.hassanhameed.com/?page_id=6693
+MV Midhili			https://www.hassanhameed.com/?page_id=2498
+MV Uligamu			https://www.hassanhameed.com/?page_id=3347
+MV Thuththu Neo			https://www.hassanhameed.com/?page_id=11718
+MV Oswald			https://www.hassanhameed.com/?page_id=12764
+MV Nasri			https://www.hassanhameed.com/?page_id=13342
+MV Open				https://bit.ly/2M4IetM
+MV Aka				https://www.hassanhameed.com/?page_id=17283
+MV Faseyha Au			https://www.hassanhameed.com/dhivehi-language/a-font-with-an-improved-fili-system/
+
+

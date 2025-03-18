@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title> Raajje Fonts - Maldivian Fonts Repository - Free Fonts, Dhivehi Fonts, Thaana, Bas, Type, Akuru, Faruma, Gaumee, Maumoon</title>
+			<title> RaajjeFonts – The Ultimate Repository for Free Dhivehi Fonts - Free Fonts, Dhivehi Fonts, Thaana, Bas, Type, Akuru, Faruma, Gaumee, Maumoon</title>
 			<link data-default-icon="imgs/favicon.png" rel="icon" sizes="192x192" href="imgs/favicon.png" />
-			<meta name="description" content="Maldivian fonts repository allowing easy access to a large number of Maldivian fonts developed by aspiring individuals and groups at a single place. | Dhivehi Fonts, Raajje Fonts, Maldivian Fonts, Thaana Fonts.">
+			<meta name="description" content="	RaajjeFonts brings together all free Dhivehi fonts for personal and commercial use in one place, making it easy for designers to discover and compare fonts across the web.">
 			<meta name="viewport" content="width=device-width, initial-scale=0.8, shrink-to-fit=yes">
 			<meta charset="utf-8">
 			
-			<meta property="og:title" content="Raajje Fonts - Maldivian Fonts Repository - Get Thaana Fonts for FREE">
-			<meta property="og:description" content="More than 200 Maldivian thaana fonts at a single place">
+			<meta property="og:title" content="RaajjeFonts – The Ultimate Repository for Free Dhivehi Fonts - Get FREE Dhivhei Fonts">
+			<meta property="og:description" content="More than 200 FREE Dhivehi fonts at a single place">
 			<meta property="og:image" content="https://raajjefonts.github.io/imgs/sm_image.png">
 			<meta property="og:url" content="https://raajjefonts.github.io">
 			
 			<meta name="twitter:card" content="summary_large_image">
-			<meta name="twitter:title" content="Raajje Fonts - Maldivian Fonts Repository - Get Thaana Fonts for FREE">
-			<meta name="twitter:description" content="More than 200 Maldivian thaana fonts at a single place">
+			<meta name="twitter:title" content="RaajjeFonts – The Ultimate Repository for Free Dhivehi Fonts - Get FREE Dhivehi Fonts">
+			<meta name="twitter:description" content="More than 200 FREE Dhivehi fonts at a single place">
 			<meta name="twitter:image" content="https://raajjefonts.github.io/imgs/sm_image.png">
 			<meta name="twitter:url" content="https://raajjefonts.github.io">
 		</head>
@@ -33,8 +33,8 @@
 						</div>
 					</a>			
 				</nav>
-				<a href="credits.txt">
-					<p id="credits" >Credits</p>
+				<a href="Sources.txt">
+					<p id="nav_sources" >Sources List</p>
 				</a>
 				<a href="articles/articles.html">
 					<p id="articles" >Articles</p>
@@ -45,21 +45,37 @@
 				<center>
 					<p id="developer"><a href="https://saaiqsas.github.io"><saaiqSAS>saaiqSAS</saaiqSAS></a> presents</p>
 					<h1 class="intro-text">The Only Maldivian Fonts Repository You'll Need</h1>
-					<p class="intro-text">Type the text you want to use for font preview</p>
-					<form id="test-text-box">
-						<input style="margin-bottom: 70px;" type="text" id="test" value="&#x202e;321، &#x202d;iSorinuh  .&#x202e;ރާއްޖެ ފޮންޓްސް" onchange="updateTestText()"/> 
-					</form>
+					<p class="blue_border_box"><b>Tip:</b> press <keys>Ctrl</keys> + <keys>F</keys> to search fonts</p>
+
+					<p class="intro-text" style="margin-top:40px;"> 
+					RaajjeFonts brings together all free Dhivehi fonts for personal and commercial use in one place,
+					making it easy for designers to discover and compare fonts across the web. When you click 'Download,'
+					you'll be redirected to the original font source, whenever available.</p>
+
+					<div id="options_box">
+						<p class="intro-text">Type the text you want to use for font preview</p>
+						<form>
+							<input type="text" id="test_text" value="&#x202e;321، &#x202d;iSorinuh  .&#x202e;ރާއްޖެ ފޮންޓްސް" onchange="updateTestText()"/> 
+							<br/>
+							<label for="display_text_color">Text color:</label>
+							<input type="color" value="#ffffff" id="display_text_color"  onchange="updateDisplayTextColor()"/>
+							
+							<label for="display_background_color" style="margin-left: 20px;">Background color:</label>
+							<input type="color" value="#000000" id="display_background_color"  onchange="updateDisplayBackgroundColor()"/>
+							
+							<label for="display_size" style="margin-left: 20px;">Font Size:</label>
+							<input type="number" style="max-width: 50px;" value="16" max="100" id="display_size" onchange="updateDisplayFontSize()" />
+						</form>
+					</div>
 					
-					<p id="noti"><b>Tip:</b> press <keys>Ctrl</keys> + <keys>F</keys> to search fonts</p>
-					<p class="intro-text" style="color:#eae5e1; margin-top:40px;"> Note: Fonts Are for Personal Use Only</p>
+				
 					<div id="listings-box">
 					<!--
 						<div class="listing">
-							<p class="listing-name">Font Name</p>
 							<p class="listing-display">ރާއްޖެ ފޮންޓްސް</p>
-							<p class="listing-file-name"><b>file:</b> fileName </p>
+							<p class="font_name"><b>Name:</b> name </p>
 							<div class="horizontal">
-								<p class="listing-size"><b>Size:</b> 1.1mb</p>
+								<p class="font_source"><b>Source:</b> source</p>
 								<a href="download/link">
 									<div class="listing-download">
 									  <p>Download</p>
@@ -84,11 +100,18 @@
 					<hr/>
 					</br>
 					<center>
-						<p style="max-width: 90%;font-size: 18px;">The fonts listed in this repository are the intellectual property of individual developers and groups who have dedicated their time and effort to creating them. These fonts are strictly for personal use only, and any commercial use, redistribution, or modification is prohibited unless explicitly stated otherwise by the font creator. This site is simply a compilation of these fonts for easy access, and neither the developers nor contributors will be held responsible for any misuse of the fonts. By downloading or using these fonts, you agree to use them solely for personal, non-commercial purposes.</p>
+						<p style="max-width: 90%;">
+						The fonts listed in this repository are the intellectual property of their respective developers and 
+						creators, who have dedicated their time and effort to designing them. For licensing information and to 
+						verify if commercial use is allowed, please refer to the source website for each font. This site serves
+						as a compilation for easy access, and neither the developers nor contributors are responsible for any 
+						misuse of the fonts. By downloading or using these fonts, you agree to adhere to the licensing terms 
+						provided by the original font creators.
+						</p>
 						</br>
-						<p>send fonts, request fonts, request features or report bugs to <b>raajjefonts@gmail.com</b></p>
+						<p>For font submissions, feature requests, bug reports, broken links, issues, or to request font removal, please contact us at <b>raajjefonts@gmail.com</b></p>
 						<p>developed and maintained by  <a class="redirectText" href="https://saaiqsas.github.io">saaiqSAS</a> |  <a class="redirectText" href="https://github.com/raajjefonts">Project GitHub</a></p>
-						<p id="copyrights" >"Copyrights (©) 2023-Present raajjefonts</p>
+						<p id="copyrights" >"Copyrights (©) 2023-Present Saaiq Abdulla Saeed</p>
 					</center>
 					</br>
             	</div>
@@ -98,7 +121,7 @@
 		<script type="text/javascript">
 			// Copyrights
 			var currentYear = new Date().getFullYear();
-			document.getElementById('copyrights').textContent = "Copyrights (©) 2023-"+currentYear+" saaiqSAS";
+			document.getElementById('copyrights').textContent = "Copyrights (©) 2023-"+currentYear+" Saaiq Abdulla Saeed";
 		</script>
 		
 		<script type="text/javascript" src="scripts/home.js"></script>
