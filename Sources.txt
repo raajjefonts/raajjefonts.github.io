@@ -1,3 +1,6 @@
+RaajjeFonts – The Ultimate Repository for Free Dhivehi Fonts
+-------------------------------------------------------------------------------------------------------
+
 [CURRENT NUMBER OF FONT LISTINGS : 206]
 
 The fonts listed in this repository are the intellectual property of their respective developers 
@@ -19,9 +22,10 @@ FONTS AND THEIR DOWNLOAD LINK FROM SOURCE – Compiled by saaiqSAS
 www.dhivehi.mv
 ==============
 This site does not provide explicit licensing information. However, the fonts available here are 
-widely used for both personal and commercial purposes. Based on their widespread use, it is safe
-to assume that these fonts can be used for both personal and commercial projects.
-(All fonts on same page, Thus direct download link provided)
+free and widely used for both personal and commercial purposes. Given their widespread use and 
+the presence of a donation system, it is safe to assume that these fonts can be freely used for 
+both personal and commercial projects.
+(All fonts on same page. No dedicated page for each font. Thus direct download link provided)
 
 DAM_Hiyani			https://www.dhivehi.mv/fonts/data/df/DAM_Hiyani.otf
 DAM_Kalhi			https://www.dhivehi.mv/fonts/data/df/DAM_Kalhi.otf
@@ -117,9 +121,8 @@ Zaana Thedhu			https://thaana.com/zaana-thedhu/
 thatmaldivesblog.wordpress.com
 ===============================
 The fonts on this site are licensed under the 
-Creative Commons Attribution-ShareAlike 3.0 License (http://creativecommons.org/licenses/by-sa/3.0/),
-as specified on the site. As such, these fonts can be freely used for both personal and 
-commercial purposes, with proper attribution.
+Creative Commons Attribution-ShareAlike 3.0 License (http://creativecommons.org/licenses/by-sa/3.0/). 
+As such, these fonts can be freely used for both personal and commercial purposes, with proper attribution.
 
 MV Salhi Eka  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
 MV Salhi  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
@@ -145,9 +148,10 @@ MV Prathama Tin			https://thatmaldivesblog.wordpress.com/2016/04/03/first-font/
 
 dhivehifont.com
 ===============
-This site does not provide explicit licensing information. However, the fonts available here are widely
-used for both personal and commercial purposes. Based on the owner's intentions as stated on the site,
-it is reasonable to assume that these fonts can be used for both personal and commercial projects.
+This site does not provide explicit licensing information. However, the fonts available here
+free and are widely used for both personal and commercial purposes. Based on the owner's intentions as
+stated on the site and the use of a donation system, it is reasonable to assume that the fonts
+from this site can be freely used for both personal and commercial projects.
 
 Mv Gaa Lhohi 			https://dhivehifont.com/2022/04/28/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8e%de%a7-%de%85%de%ae%de%80%de%a8/
 mv izyan athuliyun light	https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%a6%de%8c%de%aa%de%8d%de%a8%de%94%de%aa%de%82%de%b0-%de%8d%de%a6%de%87%de%a8%de%93%de%b0/ 
