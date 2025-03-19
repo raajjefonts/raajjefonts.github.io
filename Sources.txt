@@ -7,14 +7,20 @@ This site serves as a compilation for easy access, and neither the developers no
 are responsible for any misuse of the fonts. By downloading or using these fonts, you agree to 
 adhere to the licensing terms provided by the original font creators.
 
+
 PROJECT DEVELOPED AND MAINTAINED BY 
 > saaiqSAS (https://saaiqsas.github.io)
 
+
 -------------------------------------------------------------------------------------------------------
-FONT LINKS TO SOURCE - Compiled by saaiqSAS
+FONTS AND THEIR DOWNLOAD LINK FROM SOURCE – Compiled by saaiqSAS
+-------------------------------------------------------------------------------------------------------
 
 www.dhivehi.mv
 ==============
+This site does not provide explicit licensing information. However, the fonts available here are 
+widely used for both personal and commercial purposes. Based on their widespread use, it is safe
+to assume that these fonts can be used for both personal and commercial projects.
 (All fonts on same page, Thus direct download link provided)
 
 DAM_Hiyani			https://www.dhivehi.mv/fonts/data/df/DAM_Hiyani.otf
@@ -80,8 +86,11 @@ A_Faseyha			https://www.dhivehi.mv/fonts/data/et/faseyha.otf
 A_Utheem			https://www.dhivehi.mv/fonts/data/et/utheem.otf
 
 
+
 thaana.com
 ==========
+All fonts on this site are licensed under the SIL Open Font License (http://scripts.sil.org/OFL),
+as specified on the site. Therefore, these fonts can be freely used for both personal and commercial purposes.
 
 Bolhu				https://thaana.com/bolhu/
 Faagathi Dehli			https://thaana.com/faagathi-dheli/
@@ -104,8 +113,13 @@ Viethaana			https://thaana.com/viethaana/
 Zaana Thedhu			https://thaana.com/zaana-thedhu/
 
 
+
 thatmaldivesblog.wordpress.com
 ===============================
+The fonts on this site are licensed under the 
+Creative Commons Attribution-ShareAlike 3.0 License (http://creativecommons.org/licenses/by-sa/3.0/),
+as specified on the site. As such, these fonts can be freely used for both personal and 
+commercial purposes, with proper attribution.
 
 MV Salhi Eka  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
 MV Salhi  			https://thatmaldivesblog.wordpress.com/2021/03/18/mv-salhi/
@@ -128,8 +142,12 @@ MV Kanafala			https://thatmaldivesblog.wordpress.com/2016/04/09/new-font/
 MV Prathama Tin			https://thatmaldivesblog.wordpress.com/2016/04/03/first-font/
 
 
+
 dhivehifont.com
 ===============
+This site does not provide explicit licensing information. However, the fonts available here are widely
+used for both personal and commercial purposes. Based on the owner's intentions as stated on the site,
+it is reasonable to assume that these fonts can be used for both personal and commercial projects.
 
 Mv Gaa Lhohi 			https://dhivehifont.com/2022/04/28/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8e%de%a7-%de%85%de%ae%de%80%de%a8/
 mv izyan athuliyun light	https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%de%88%de%a9-%de%87%de%a8%de%92%de%a8%de%94%de%a6%de%82%de%b0-%de%87%de%a6%de%8c%de%aa%de%8d%de%a8%de%94%de%aa%de%82%de%b0-%de%8d%de%a6%de%87%de%a8%de%93%de%b0/ 
@@ -165,8 +183,13 @@ Mv Neviraheem 			https://dhivehifont.com/2022/04/28/%de%87%de%ac-%de%89%de%b0-%d
 THIKI 				https://dhivehifont.com/2022/05/08/%de%87%de%ac%de%89%de%b0%de%88%de%a9-%de%8c%de%a8%de%86%de%a8-%de%87%de%a6%de%86%de%aa%de%83%de%aa/
 
 
+
 www.hassanhameed.com
 ====================
+According to the licensing information provided on the page (https://www.hassanhameed.com/thaana-fonts/),
+the glyphs of the fonts created by the site’s owner may be used for personal, educational, and non-profit purposes.
+Commercial use is also allowed under this license for lawful businesses.
+Therefore, all fonts from this site can be used for both personal and commercial purposes.
 
 MV Typewriter			https://www.hassanhameed.com/?page_id=154
 Typewriter Semibold		https://www.hassanhameed.com/thaana-fonts/mv-typewriter-semibold/

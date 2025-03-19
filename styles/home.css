@@ -330,6 +330,13 @@ keys {
 	color: #296D7A;
 }
 
+.note {
+	color: #ffffff;
+	max-width: 90%;
+	margin: 50px 5px;
+}
+
+
 #developer {
 	font-size: 18px;
 	color: #aaaaaa;
