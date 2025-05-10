@@ -237,7 +237,10 @@ fontsListing.sort(function(a, b) {
   return 0;       // names are equal
 });
 
+
+
 displayListings();
+
 
 function updateTestText() {
 	testText = testTextInput.value;
@@ -278,55 +281,60 @@ function updateDisplayFontSize() {
 }
 
 function displayListings() {
-	
-	for (var elisting of fontsListing) {
-		
-		var style = document.createElement('style');
+	const notification = document.getElementById('notification');
+	notification.classList.remove('hidden');
+	notification.textContent = "Hang on while we load all the fonts...";
+
+	for (const elisting of fontsListing) {
+		const style = document.createElement('style');
 		style.type = 'text/css';
-		style.innerHTML = '@font-face { font-family: "'+elisting.name+'"; src: url("'+elisting.web_file_location+'"); }';
+		style.innerHTML = `@font-face {
+			font-family: "${elisting.name}";
+			src: url("${elisting.web_file_location}");
+		}`;
 		document.head.appendChild(style);
-		
-		var font_display = document.createElement("p");
+
+		const font_display = document.createElement("p");
 		font_display.className = "font_display";
 		font_display.innerText = testText;
 		font_display.style.fontFamily = elisting.name;
-		
-		var font_name = document.createElement("p");
+
+		const font_name = document.createElement("p");
 		font_name.className = "font_name";
-		font_name.innerText = "Name: "+elisting.name;
-		
-		var font_source = document.createElement("p");
+		font_name.innerText = "Name: " + elisting.name;
+
+		const font_source = document.createElement("p");
 		font_source.className = "font_source";
-		font_source.innerText = "Source: "+elisting.Source;
-		
-					var listing_down_text = document.createElement("p");
-					listing_down_text.innerText = "Download";
-				
-				var font_download = document.createElement("div");
-				font_download.className = "font_download";
-				font_download.appendChild(listing_down_text);
-			
-			var download_a = document.createElement("a");
-			download_a.appendChild(font_download);
-			download_a.href = elisting.download_link;
-		
-		var horizontal = document.createElement("div");
+		font_source.innerText = "Source: " + elisting.Source;
+
+		const listing_down_text = document.createElement("p");
+		listing_down_text.innerText = "Download";
+
+		const font_download = document.createElement("div");
+		font_download.className = "font_download";
+		font_download.appendChild(listing_down_text);
+
+		const download_a = document.createElement("a");
+		download_a.appendChild(font_download);
+		download_a.href = elisting.download_link;
+
+		const horizontal = document.createElement("div");
 		horizontal.className = "horizontal";
 		horizontal.appendChild(font_source);
 		horizontal.appendChild(download_a);
-		
-		var listing = document.createElement("div");
+
+		const listing = document.createElement("div");
 		listing.className = "listing";
-		
 		listing.appendChild(font_display);
 		listing.appendChild(font_name);
 		listing.appendChild(horizontal);
-		
-		var listings_box = document.getElementById("listings-box");
-		listings_box.append(listing);
 
-		
-		
+		document.getElementById("listings-box").append(listing);
 	}
-	
+
+	// Wait for all fonts to be ready, then hide the notification
+	document.fonts.ready.then(() => {
+		notification.classList.add('hidden');
+	});
 }
+

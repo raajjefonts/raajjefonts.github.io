@@ -272,6 +272,89 @@ keys {
 	font-family: 'Courier New', monospace;
 }
 
+#notification {
+	position: fixed;
+	bottom: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	min-width: 280px;
+	z-index: 9999;
+
+	border: solid 2px #296D7A;
+	max-width: 800px;
+	background-color: #fbf8f3;
+	padding: 10px 70px;
+	border-radius: 25px;
+	opacity: 0.95;
+	
+	color: #296D7A;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	
+
+	box-shadow: -2px 18px 37px -11px rgba(0, 0, 0, 0.75);
+	transition: opacity 0.5s ease;
+	
+}
+
+
+#notification.hidden {
+	opacity: 0;
+	pointer-events: none;
+}
+
+
+.intro-text {
+	color: #296D7A;
+}
+
+.note {
+	color: #ffffff;
+	max-width: 90%;
+	margin: 50px 5px;
+}
+
+
+#developer {
+	font-size: 18px;
+	color: #aaaaaa;
+	font-weight: 600;
+}
+
+saaiqSAS {
+	-webkit-transition: all 0.3s ease;
+    	-moz-transition: all 0.3s ease;
+    	-o-transition: all 0.3s ease;
+    	-ms-transition: all 0.3s ease;
+    	transition: all 0.3s ease;
+}
+
+saaiqSAS:hover {
+	color: #ffffff;
+	text-shadow: 0 0 10px #fff, 0 0 20px #9900CC, 0 0 30px #9900CC,  0 0 50px #9900CC;
+}
+
+
+#intro {
+	max-width: 700px;
+	margin-bottom: 220px;
+	font-weight: 600;
+}
+
+@media screen and (max-width: 800px) {
+	#intro {
+		max-width: 700px;
+		margin-bottom: 260px;
+		font-weight: 600;
+	}
+}
+
+#alert_intro {
+	margin-bottom: 50px;
+	font-style: italic;
+}
+
 #options_box {
 	/*position: -webkit-sticky;
 	position: sticky;
@@ -324,56 +407,6 @@ keys {
 		outline: none !important;
 		transform: scale(1.1);
 	}
-}
-
-.intro-text {
-	color: #296D7A;
-}
-
-.note {
-	color: #ffffff;
-	max-width: 90%;
-	margin: 50px 5px;
-}
-
-
-#developer {
-	font-size: 18px;
-	color: #aaaaaa;
-	font-weight: 600;
-}
-
-saaiqSAS {
-	-webkit-transition: all 0.3s ease;
-    	-moz-transition: all 0.3s ease;
-    	-o-transition: all 0.3s ease;
-    	-ms-transition: all 0.3s ease;
-    	transition: all 0.3s ease;
-}
-
-saaiqSAS:hover {
-	color: #ffffff;
-	text-shadow: 0 0 10px #fff, 0 0 20px #9900CC, 0 0 30px #9900CC,  0 0 50px #9900CC;
-}
-
-
-#intro {
-	max-width: 700px;
-	margin-bottom: 220px;
-	font-weight: 600;
-}
-
-@media screen and (max-width: 800px) {
-	#intro {
-		max-width: 700px;
-		margin-bottom: 260px;
-		font-weight: 600;
-	}
-}
-
-#alert_intro {
-	margin-bottom: 50px;
-	font-style: italic;
 }
 
 #rate_form_box {
