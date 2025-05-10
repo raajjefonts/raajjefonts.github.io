@@ -378,7 +378,7 @@ saaiqSAS:hover {
 
 #rate_form_box {
 	max-width: 720px;
-	height: 580px;
+	height: 800px;
 	margin: 10px auto;
 	border-radius: 20px;
 	background-color: #ffffff;
@@ -390,9 +390,8 @@ saaiqSAS:hover {
 }
 
 #rate_form {
-	transform: translateY(-178px);
 	width: 100%;
-	height: 800px;
+	height: 1000px;
 }
 
 .listing {
@@ -535,26 +534,7 @@ saaiqSAS:hover {
 	}
 	
 	#rate_form_box {
-	height: 740px;
-	}
-
-	#rate_form {
-		transform: translateY(-178px);
-		height: 1000px;
-	}
-
-	
-}
-
-@media screen and (max-width: 460px) {
-
-	#rate_form_box {
-	height: 740px;
-	}
-
-	#rate_form {
-		transform: translateY(-200px);
-		height: 1000px;
+	height: 900px;
 	}
 
 	
