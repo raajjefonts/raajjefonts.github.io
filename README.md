@@ -1,6 +1,7 @@
 # raajjefonts.github.io
 
-A Maldivian fonts repository allowing easy access to the Maldivian fonts developed by aspiring individuals and groups at a single place.
+
+RaajjeFonts is a curated collection of free Dhivehi (Maldivian) fonts, available for both personal and commercial use. It brings together fonts from across the web in one place, making them easily accessible and allowing for easy cross-site comparison.
 
 
 by <a href="https://saaiqsas.github.io">saaiqSAS</a> 
