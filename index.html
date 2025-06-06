@@ -72,6 +72,10 @@
 					RaajjeFonts brings together all free Dhivehi fonts for personal and commercial use in one place,
 					making it easy for designers to discover and compare fonts across the web. When you click 'Download,'
 					you'll be redirected to the original font source, whenever available.</p>
+					
+					
+						<p id="rate_button">Rate Us</p>
+					
 
 					<div id="options_box">
 						<p class="intro-text">Type the text you want to use for font preview</p>
@@ -148,6 +152,15 @@
 			// Copyrights
 			var currentYear = new Date().getFullYear();
 			document.getElementById('copyrights').textContent = "Copyrights (©) 2023-"+currentYear+" Saaiq Abdulla Saeed";
+			
+			// Scroll To rate form
+			const rate_button = document.getElementById('rate_button');
+			const rate_form = document.getElementById('rate_form');
+
+			rate_button.addEventListener('click', () => {
+			  rate_form.scrollIntoView({ behavior: 'smooth' });
+			});
+			
 		</script>
 		
 		<script type="text/javascript" src="scripts/home.js"></script>
