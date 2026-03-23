@@ -392,12 +392,32 @@ saaiqSAS:hover {
 	background-color: #FFFFFF;
 	padding: 5px;
 	border-radius: 25px;
-	margin-top: 280px;
+	margin-top: 320px;
 	padding-bottom: 15px;
 	box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
 	-webkit-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
 	-moz-box-shadow: -2px 18px 37px -11px rgba(0,0,0,0.75);
 }
+
+#options_box div p {
+	display: inline;
+}
+
+
+@media screen and (max-width: 700px) {
+	#options_box {
+		margin-top: 400px;
+	}
+	#options_box div {
+		width: 400px;
+	}
+	
+	#display_size {
+		margin-top: 14px;
+	}
+		
+}
+
 
 
 #test_text {
@@ -432,6 +452,30 @@ saaiqSAS:hover {
 		outline: none !important;
 		transform: scale(1.1);
 	}
+}
+
+
+#display_text_color {
+	border: 2px solid #296D7A;
+	border-radius: 10px;
+	height: 30px;
+}
+
+#display_background_color {
+	border: 2px solid #296D7A;
+	border-radius: 10px;
+	height: 30px;
+
+}
+
+#display_size {
+	font-size: 20px;
+	border: 2px solid #296D7A;
+	border-radius: 10px;
+	color: #296D7A;
+	height: 24px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 #rate_form_box {

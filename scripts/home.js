@@ -221,20 +221,18 @@ var fontsListing = [
 
 
 // actual processing 
-
 var testText = "";
 var testTextInput = document.getElementById("test_text");
 testText = testTextInput.value;
 
 fontsListing.sort(function(a, b) {
-  // Compare 'name' properties of the objects
   if (a.name.toLowerCase() < b.name.toLowerCase()) {
-    return -1;  // a comes before b
+    return -1;  
   }
   if (a.name.toLowerCase() > b.name.toLowerCase()) {
-    return 1;   // a comes after b
+    return 1;  
   }
-  return 0;       // names are equal
+  return 0;    
 });
 
 
@@ -273,11 +271,24 @@ function updateDisplayBackgroundColor() {
 
 function updateDisplayFontSize() {
    var size = document.getElementById("display_size").value;
-   size = Math.min(size, 100); // Ensure the size doesn't exceed 100
+   size = Math.min(size, 100);
    var fontDisplayElements = document.querySelectorAll(".font_display");
    fontDisplayElements.forEach(function(element) {
-     element.style.fontSize = size + "px";  // Adding 'px' unit
+     element.style.fontSize = size + "px"; 
    });
+}
+
+function updateListingStyles() {
+	 var selectedColor = document.getElementById("display_text_color").value;
+	 var backColor = document.getElementById("display_background_color").value;
+	 var size = document.getElementById("display_size").value;
+	 
+	  var fontDisplayElements = document.querySelectorAll(".font_display");
+	  fontDisplayElements.forEach(function(element) {
+		element.style.color = selectedColor;
+		element.style.backgroundColor = backColor;
+		element.style.fontSize = size + "px"; 
+	  });
 }
 
 function displayListings() {
@@ -330,11 +341,14 @@ function displayListings() {
 		listing.appendChild(horizontal);
 
 		document.getElementById("listings-box").append(listing);
+		
 	}
 
 	// Wait for all fonts to be ready, then hide the notification
 	document.fonts.ready.then(() => {
 		notification.classList.add('hidden');
 	});
+	
+	updateListingStyles();
 }
 
